@@ -1,0 +1,919 @@
+Sex,ChestPainType,FastingBS,RestingECG,ExerciseAngina,Oldpeak,ST_Slope,HeartDisease
+M,ATA,0,Normal,N,0,Up,Normal
+F,NAP,0,Normal,N,1,Flat,Heart disease
+M,ATA,0,ST,N,0,Up,Normal
+F,ASY,0,Normal,Y,1.5,Flat,Heart disease
+M,NAP,0,Normal,N,0,Up,Normal
+M,NAP,0,Normal,N,0,Up,Normal
+F,ATA,0,Normal,N,0,Up,Normal
+M,ATA,0,Normal,N,0,Up,Normal
+M,ASY,0,Normal,Y,1.5,Flat,Heart disease
+F,ATA,0,Normal,N,0,Up,Normal
+F,NAP,0,Normal,N,0,Up,Normal
+M,ATA,0,ST,Y,2,Flat,Heart disease
+M,ATA,0,Normal,N,0,Up,Normal
+M,ASY,0,Normal,Y,1,Flat,Heart disease
+F,NAP,0,ST,N,0,Up,Normal
+F,ATA,0,Normal,N,1.5,Flat,Normal
+M,ASY,0,Normal,N,0,Flat,Heart disease
+F,ATA,0,Normal,N,0,Up,Normal
+M,ASY,0,Normal,N,1,Flat,Heart disease
+M,ATA,0,Normal,N,3,Flat,Heart disease
+F,TA,0,Normal,N,0,Up,Normal
+M,ATA,0,Normal,N,1,Flat,Normal
+F,ATA,0,Normal,N,0,Up,Normal
+M,ATA,0,Normal,Y,3,Flat,Heart disease
+M,NAP,0,Normal,N,0,Up,Normal
+M,NAP,0,Normal,N,0,Up,Normal
+M,ASY,0,ST,Y,3,Flat,Normal
+M,ATA,0,Normal,N,0,Up,Normal
+F,ATA,0,Normal,N,0,Up,Normal
+M,ATA,0,Normal,N,0,Up,Normal
+M,NAP,0,Normal,N,0,Flat,Heart disease
+M,NAP,0,Normal,N,0,Up,Normal
+M,ASY,0,Normal,N,2,Flat,Heart disease
+M,ASY,0,ST,N,2,Flat,Heart disease
+F,ATA,0,Normal,N,0,Up,Normal
+M,ATA,0,Normal,N,0,Up,Normal
+M,ASY,1,Normal,Y,1.5,Flat,Heart disease
+F,ATA,0,ST,N,0,Up,Normal
+F,ATA,1,ST,N,0,Up,Normal
+F,ASY,0,Normal,Y,1,Flat,Normal
+F,ATA,0,Normal,N,0,Up,Normal
+F,NAP,0,ST,Y,0,Flat,Heart disease
+M,ATA,0,Normal,N,0,Up,Normal
+M,NAP,0,ST,N,0,Up,Normal
+M,ASY,0,Normal,Y,1,Flat,Heart disease
+M,NAP,0,Normal,Y,1,Flat,Normal
+M,ASY,0,Normal,N,0,Up,Normal
+M,ATA,0,Normal,N,0,Up,Normal
+M,NAP,0,Normal,N,1,Flat,Normal
+M,ASY,0,Normal,N,0,Flat,Heart disease
+M,ASY,0,Normal,Y,2,Flat,Heart disease
+F,ASY,0,Normal,Y,2,Flat,Heart disease
+M,ATA,1,Normal,N,0,Up,Normal
+F,ATA,0,Normal,N,0,Up,Normal
+F,ASY,0,Normal,Y,1.5,Flat,Normal
+F,ATA,0,Normal,N,0,Up,Normal
+M,ASY,0,Normal,Y,1.5,Flat,Heart disease
+M,NAP,0,ST,N,0,Flat,Heart disease
+M,ASY,0,ST,N,1,Up,Normal
+M,ASY,0,ST,Y,1,Flat,Heart disease
+M,ATA,0,Normal,N,0,Up,Normal
+F,NAP,0,Normal,N,0,Up,Normal
+M,ASY,0,Normal,N,0,Up,Normal
+M,ASY,0,Normal,Y,1,Flat,Heart disease
+F,ATA,0,Normal,N,0,Up,Normal
+F,ATA,0,Normal,N,0,Up,Normal
+F,ASY,0,Normal,N,0,Up,Normal
+M,ATA,0,Normal,N,0,Up,Normal
+M,ASY,0,ST,Y,4,Flat,Heart disease
+M,ASY,0,Normal,N,0,Up,Normal
+M,ATA,0,ST,Y,1,Flat,Heart disease
+M,ATA,0,Normal,N,0,Up,Normal
+M,ASY,0,Normal,N,0,Flat,Heart disease
+F,ASY,0,ST,N,0,Up,Normal
+M,ASY,0,Normal,Y,1.5,Flat,Heart disease
+M,NAP,0,Normal,N,0,Up,Normal
+M,ASY,0,Normal,N,0,Flat,Heart disease
+F,ASY,0,Normal,N,0,Up,Normal
+M,ATA,0,Normal,Y,0,Up,Normal
+M,ASY,0,Normal,N,0,Flat,Heart disease
+M,NAP,0,Normal,N,0,Up,Normal
+M,ATA,0,Normal,N,0,Up,Normal
+M,ASY,0,Normal,N,0,Flat,Heart disease
+M,ATA,0,Normal,N,0,Up,Normal
+M,ASY,1,Normal,Y,1,Flat,Heart disease
+M,ASY,0,Normal,Y,1,Flat,Heart disease
+M,ASY,1,Normal,Y,2,Flat,Heart disease
+F,ATA,0,Normal,Y,2,Flat,Normal
+M,TA,0,ST,N,0,Flat,Heart disease
+M,ASY,0,Normal,Y,0.5,Flat,Normal
+F,ATA,0,Normal,N,0,Up,Normal
+M,ASY,0,Normal,N,0,Up,Normal
+F,ATA,0,Normal,N,0,Up,Normal
+M,ASY,0,Normal,Y,1.5,Flat,Heart disease
+F,NAP,0,ST,N,0,Up,Normal
+M,ASY,0,Normal,Y,2,Flat,Heart disease
+M,ATA,0,Normal,N,0,Up,Normal
+M,NAP,1,Normal,N,0,Up,Normal
+M,ASY,0,Normal,N,0,Up,Normal
+M,ATA,0,Normal,N,0,Up,Normal
+M,ASY,0,ST,Y,1,Flat,Heart disease
+M,ASY,0,Normal,N,0,Up,Normal
+F,ASY,0,Normal,N,2,Flat,Heart disease
+M,ASY,1,Normal,Y,1,Flat,Heart disease
+M,ASY,0,Normal,N,0,Flat,Heart disease
+M,ATA,1,Normal,N,0,Up,Normal
+F,ASY,0,ST,N,0,Up,Normal
+M,ATA,0,ST,N,0,Up,Normal
+M,ASY,0,Normal,N,0,Up,Normal
+M,ATA,0,Normal,N,0,Up,Normal
+F,ATA,0,Normal,N,1,Flat,Normal
+M,ASY,0,Normal,Y,3,Flat,Heart disease
+M,ASY,1,Normal,Y,0,Up,Normal
+M,ATA,0,Normal,N,0,Up,Normal
+F,NAP,0,ST,N,0,Up,Normal
+F,ASY,0,Normal,Y,1,Flat,Heart disease
+M,ASY,0,Normal,N,0,Flat,Heart disease
+F,ASY,1,ST,Y,1.5,Flat,Heart disease
+F,TA,0,ST,N,0,Up,Normal
+M,TA,0,Normal,N,0,Flat,Heart disease
+F,NAP,1,Normal,N,0,Flat,Heart disease
+F,NAP,0,Normal,N,0,Up,Normal
+M,ASY,0,ST,N,0,Up,Normal
+F,ATA,0,Normal,Y,1,Flat,Heart disease
+M,ATA,0,Normal,N,0,Up,Normal
+M,ATA,0,Normal,N,0,Up,Normal
+F,ATA,0,Normal,N,0,Up,Normal
+F,ASY,0,Normal,N,2,Up,Normal
+F,ATA,1,Normal,N,0,Up,Normal
+M,NAP,0,Normal,Y,1.5,Flat,Normal
+M,NAP,0,Normal,N,0,Up,Normal
+M,ASY,0,Normal,Y,0,Flat,Heart disease
+M,ASY,0,ST,Y,2,Flat,Heart disease
+M,ASY,0,ST,Y,1.5,Flat,Heart disease
+F,ASY,0,ST,Y,1,Flat,Normal
+M,NAP,0,Normal,N,0,Flat,Heart disease
+F,ATA,0,ST,N,0,Up,Normal
+M,ATA,0,ST,N,2,Up,Normal
+M,ASY,0,Normal,Y,0,Flat,Heart disease
+M,ASY,0,Normal,Y,2,Flat,Heart disease
+M,ASY,0,Normal,Y,2.5,Flat,Heart disease
+M,ASY,0,ST,Y,2.5,Flat,Heart disease
+M,ASY,0,ST,Y,3,Flat,Heart disease
+M,ASY,0,Normal,N,0,Up,Normal
+F,ATA,0,Normal,N,1,Flat,Heart disease
+M,ASY,0,Normal,N,0,Up,Normal
+M,ATA,0,Normal,N,0,Up,Normal
+F,ATA,0,ST,N,0,Up,Normal
+M,ATA,0,Normal,N,0,Up,Normal
+M,ASY,1,Normal,Y,1,Flat,Heart disease
+M,ATA,0,Normal,N,0,Up,Normal
+M,ATA,0,Normal,N,0,Up,Normal
+M,ATA,0,Normal,N,0,Up,Normal
+M,ASY,0,Normal,N,0,Up,Normal
+M,ATA,0,ST,N,0,Up,Normal
+M,ASY,1,Normal,Y,3,Flat,Heart disease
+M,ASY,0,Normal,Y,1,Flat,Heart disease
+M,ASY,0,Normal,N,0,Up,Normal
+M,ASY,0,Normal,Y,2,Flat,Heart disease
+M,ATA,0,ST,N,1,Up,Normal
+M,ASY,1,LVH,Y,0,Flat,Heart disease
+M,ASY,0,Normal,Y,0,Flat,Heart disease
+M,ATA,0,Normal,N,0,Up,Normal
+M,ATA,0,Normal,N,0,Up,Normal
+F,ATA,0,Normal,N,0,Up,Normal
+M,TA,1,Normal,N,2,Flat,Heart disease
+M,ASY,0,ST,Y,5,Flat,Heart disease
+M,ATA,0,Normal,N,0,Up,Normal
+M,ASY,0,Normal,N,0,Up,Normal
+M,NAP,0,Normal,N,0,Up,Normal
+M,ATA,0,Normal,N,0,Up,Normal
+M,NAP,0,Normal,N,0,Up,Normal
+M,ATA,0,Normal,N,0,Up,Normal
+M,NAP,0,Normal,N,0,Up,Normal
+M,ASY,0,Normal,Y,2,Flat,Heart disease
+M,ASY,0,Normal,Y,2,Flat,Heart disease
+M,ASY,0,Normal,N,1.5,Flat,Heart disease
+M,ATA,0,Normal,N,0,Up,Normal
+M,NAP,0,Normal,N,0,Up,Normal
+F,ASY,0,Normal,N,0,Up,Normal
+M,ASY,0,Normal,Y,2,Flat,Heart disease
+M,ATA,0,Normal,N,0,Up,Normal
+M,ASY,0,Normal,Y,2,Flat,Heart disease
+M,ASY,0,ST,Y,1,Flat,Normal
+F,ATA,0,Normal,N,0,Up,Normal
+M,NAP,1,ST,N,0,Flat,Heart disease
+M,ATA,0,Normal,N,0,Up,Normal
+M,ASY,1,Normal,Y,1,Flat,Heart disease
+F,ASY,0,Normal,Y,1,Flat,Normal
+M,ASY,0,ST,Y,1.5,Flat,Heart disease
+M,ASY,0,ST,N,0,Up,Normal
+M,ATA,0,ST,N,0,Up,Normal
+M,ATA,0,Normal,N,0,Up,Normal
+M,NAP,0,Normal,N,0,Up,Normal
+F,ATA,0,Normal,N,0,Up,Normal
+F,TA,0,Normal,N,0,Up,Normal
+M,ASY,0,Normal,N,1,Flat,Normal
+M,ATA,0,Normal,N,0,Up,Normal
+M,ASY,0,Normal,Y,0,Flat,Heart disease
+F,TA,0,Normal,N,1,Flat,Normal
+M,TA,0,Normal,N,0,Up,Normal
+M,NAP,0,Normal,N,0,Up,Normal
+M,NAP,0,Normal,N,0,Up,Normal
+F,ATA,0,ST,N,0,Up,Normal
+M,ATA,0,Normal,N,0,Up,Normal
+M,ASY,0,Normal,Y,0,Up,Normal
+M,ATA,0,LVH,N,0,Up,Normal
+M,ATA,0,Normal,N,0,Flat,Heart disease
+M,ATA,0,LVH,N,0,Up,Normal
+M,ASY,0,Normal,N,0,Flat,Heart disease
+M,ASY,1,Normal,N,0,Flat,Heart disease
+F,NAP,0,Normal,Y,0,Flat,Heart disease
+M,NAP,0,Normal,Y,1,Up,Normal
+F,NAP,0,ST,N,0,Up,Normal
+M,ASY,0,Normal,Y,1.5,Flat,Heart disease
+F,TA,0,ST,N,0,Up,Normal
+M,ASY,0,Normal,N,0,Flat,Heart disease
+M,NAP,0,Normal,N,0,Up,Normal
+M,ATA,0,Normal,N,0,Up,Normal
+M,ATA,0,Normal,N,0,Up,Normal
+M,ASY,0,Normal,N,0,Flat,Heart disease
+F,ASY,0,Normal,Y,1,Flat,Heart disease
+F,NAP,0,Normal,N,0,Up,Normal
+M,NAP,0,Normal,N,0,Up,Normal
+M,ATA,1,Normal,N,0,Up,Normal
+M,ASY,0,Normal,N,0,Flat,Heart disease
+M,NAP,0,Normal,N,0,Up,Normal
+M,ASY,0,Normal,Y,2.5,Flat,Heart disease
+M,ATA,0,Normal,N,0,Up,Normal
+F,ASY,0,ST,N,0,Up,Normal
+M,ASY,0,Normal,N,0,Up,Normal
+M,NAP,0,Normal,N,0,Up,Normal
+F,ATA,0,Normal,N,0,Up,Normal
+M,ASY,0,Normal,N,0,Up,Normal
+F,ATA,0,ST,N,0,Up,Normal
+M,ATA,0,Normal,Y,1,Flat,Normal
+M,ASY,0,Normal,Y,3,Flat,Heart disease
+M,TA,0,Normal,N,0,Flat,Heart disease
+M,ASY,0,Normal,Y,2,Flat,Heart disease
+M,ASY,0,Normal,Y,3,Flat,Heart disease
+M,ATA,0,Normal,N,0,Up,Normal
+M,ASY,0,Normal,Y,2,Flat,Heart disease
+M,ATA,1,Normal,Y,2,Flat,Heart disease
+F,ATA,0,Normal,N,0,Up,Normal
+M,ASY,0,Normal,Y,1,Flat,Heart disease
+M,TA,0,Normal,N,2,Up,Normal
+M,NAP,0,Normal,Y,1.5,Flat,Heart disease
+M,ASY,1,ST,Y,2,Down,Heart disease
+M,ASY,0,ST,Y,1,Flat,Heart disease
+M,ASY,0,Normal,Y,1,Flat,Heart disease
+M,ASY,0,Normal,N,0,Flat,Heart disease
+M,ASY,0,Normal,N,2,Flat,Heart disease
+M,ASY,0,ST,Y,0,Up,Normal
+M,ATA,0,Normal,N,1,Up,Normal
+M,ASY,0,Normal,Y,2,Flat,Heart disease
+F,NAP,0,Normal,N,0,Up,Normal
+F,ATA,0,LVH,N,0,Up,Normal
+M,NAP,0,Normal,N,0,Up,Normal
+F,NAP,0,Normal,N,0.5,Up,Normal
+F,ATA,0,Normal,N,0,Up,Normal
+M,ATA,0,Normal,Y,0,Up,Normal
+F,ATA,0,Normal,N,1,Up,Normal
+M,ASY,0,Normal,Y,0,Flat,Heart disease
+M,ASY,0,Normal,N,0,Flat,Heart disease
+M,NAP,0,Normal,Y,1,Flat,Heart disease
+M,ATA,0,Normal,N,0,Up,Normal
+M,ASY,0,Normal,Y,1,Flat,Heart disease
+M,ATA,0,Normal,N,0,Up,Normal
+M,ASY,0,Normal,Y,1,Flat,Heart disease
+F,NAP,0,Normal,N,2,Flat,Normal
+M,ASY,0,Normal,N,0,Up,Normal
+F,ATA,0,Normal,N,0,Up,Normal
+M,ASY,0,Normal,Y,3,Flat,Heart disease
+M,NAP,0,LVH,N,0,Up,Normal
+F,ATA,0,Normal,N,0,Up,Normal
+M,NAP,0,Normal,N,0,Up,Normal
+M,NAP,0,Normal,N,2,Flat,Heart disease
+M,ASY,0,Normal,Y,1.5,Flat,Heart disease
+F,ASY,0,ST,Y,0.8,Flat,Normal
+F,ATA,0,ST,N,0,Up,Normal
+M,NAP,0,LVH,N,0,Up,Normal
+M,ASY,0,Normal,N,2,Flat,Heart disease
+F,NAP,0,Normal,Y,2,Up,Normal
+F,ATA,0,ST,N,0,Up,Normal
+M,ASY,0,Normal,N,0,Up,Normal
+F,NAP,0,Normal,N,0,Up,Normal
+M,ASY,0,Normal,N,0,Up,Normal
+M,ATA,0,Normal,N,0,Up,Normal
+F,ATA,0,ST,N,2,Up,Normal
+M,ATA,0,Normal,N,0,Up,Normal
+M,NAP,0,Normal,N,0,Up,Normal
+F,ATA,0,Normal,N,1,Up,Normal
+M,ASY,0,Normal,N,0,Up,Normal
+M,ASY,0,Normal,Y,0,Flat,Heart disease
+M,TA,1,Normal,N,0.7,Up,Heart disease
+M,ASY,1,Normal,Y,1.5,Up,Heart disease
+M,ASY,1,Normal,Y,0.7,Flat,Heart disease
+M,ASY,1,ST,Y,1.4,Up,Heart disease
+M,ASY,1,Normal,N,0,Flat,Heart disease
+M,ASY,1,ST,N,2.1,Up,Heart disease
+M,ASY,1,Normal,N,0.4,Flat,Heart disease
+M,ATA,0,ST,N,0.2,Up,Normal
+M,ASY,1,Normal,N,1.5,Up,Heart disease
+F,ASY,1,ST,Y,1.7,Down,Heart disease
+M,ASY,1,Normal,N,2.2,Flat,Heart disease
+F,ASY,1,Normal,Y,1.5,Up,Heart disease
+M,ASY,1,Normal,N,0.1,Flat,Heart disease
+M,ATA,0,ST,N,0.7,Down,Normal
+M,ASY,1,Normal,N,0.5,Up,Heart disease
+M,ASY,1,Normal,N,0.7,Down,Heart disease
+M,ASY,0,Normal,N,1,Up,Normal
+M,ASY,1,Normal,N,0.1,Up,Heart disease
+M,ASY,1,Normal,N,1.6,Up,Heart disease
+M,ASY,1,Normal,N,0.2,Up,Heart disease
+M,ASY,0,Normal,Y,2,Down,Normal
+M,ATA,1,ST,N,1.3,Up,Heart disease
+M,NAP,1,Normal,N,0.3,Flat,Heart disease
+M,ASY,1,Normal,Y,1.8,Up,Heart disease
+M,ASY,1,Normal,N,2.5,Flat,Heart disease
+M,ASY,1,Normal,N,1.8,Up,Heart disease
+M,NAP,1,Normal,N,2.6,Flat,Heart disease
+M,ASY,1,Normal,N,-0.9,Flat,Heart disease
+F,ASY,1,Normal,N,2.8,Up,Heart disease
+M,ASY,1,Normal,Y,2.5,Down,Heart disease
+M,ASY,1,ST,N,-2.6,Flat,Heart disease
+M,ASY,1,Normal,Y,-1.5,Down,Heart disease
+M,NAP,0,Normal,N,-0.1,Up,Normal
+M,ASY,1,Normal,Y,0.9,Up,Heart disease
+M,ASY,1,Normal,Y,0.8,Flat,Heart disease
+M,ASY,1,ST,Y,1.1,Down,Heart disease
+M,NAP,1,Normal,N,2.4,Up,Heart disease
+M,ASY,1,ST,N,-1,Up,Heart disease
+M,NAP,0,Normal,N,-1.1,Up,Normal
+M,ASY,1,ST,N,0,Up,Heart disease
+M,ASY,1,Normal,N,-0.7,Up,Heart disease
+M,TA,1,LVH,N,-0.8,Flat,Heart disease
+M,NAP,0,LVH,N,1.6,Flat,Normal
+M,ASY,1,ST,N,3.7,Up,Heart disease
+M,ASY,1,LVH,N,2,Up,Heart disease
+F,ASY,1,Normal,N,1.1,Down,Heart disease
+M,ASY,1,Normal,N,1.5,Down,Heart disease
+M,ASY,1,Normal,Y,1.3,Down,Heart disease
+M,ASY,1,Normal,N,1.4,Flat,Heart disease
+M,ASY,1,Normal,N,0,Flat,Heart disease
+M,ASY,1,Normal,N,0,Flat,Heart disease
+M,ASY,0,Normal,N,0,Flat,Heart disease
+M,ASY,0,Normal,N,0,Flat,Heart disease
+M,ASY,1,Normal,N,0,Flat,Heart disease
+M,ASY,0,ST,Y,1.6,Flat,Heart disease
+M,ASY,1,Normal,Y,1,Flat,Heart disease
+M,ASY,1,Normal,N,0,Flat,Heart disease
+M,ASY,0,ST,Y,0.5,Up,Heart disease
+M,ASY,0,ST,Y,-1,Down,Heart disease
+M,ASY,0,ST,Y,1,Flat,Heart disease
+M,ASY,0,ST,N,0.3,Up,Heart disease
+M,TA,0,LVH,N,0,Flat,Heart disease
+M,ASY,0,Normal,Y,1.5,Flat,Heart disease
+M,ATA,0,Normal,N,0,Flat,Heart disease
+M,NAP,0,Normal,Y,0,Flat,Heart disease
+M,NAP,0,Normal,N,0,Flat,Heart disease
+M,NAP,0,Normal,Y,0,Flat,Heart disease
+M,ASY,0,Normal,Y,0,Flat,Heart disease
+M,NAP,0,ST,N,0,Flat,Heart disease
+M,ASY,0,ST,N,0,Flat,Heart disease
+M,NAP,0,Normal,N,0,Flat,Normal
+F,ASY,0,Normal,Y,1,Flat,Heart disease
+M,ASY,0,Normal,Y,2,Flat,Heart disease
+M,ASY,0,ST,Y,0,Up,Heart disease
+M,ASY,0,Normal,Y,2,Flat,Heart disease
+M,ASY,0,Normal,Y,2,Flat,Heart disease
+M,ASY,0,Normal,Y,0.5,Up,Heart disease
+M,ASY,0,Normal,Y,2,Flat,Heart disease
+M,ASY,0,Normal,Y,0,Up,Heart disease
+M,ASY,0,Normal,Y,1,Flat,Heart disease
+M,ASY,0,Normal,Y,0,Down,Heart disease
+F,NAP,0,ST,N,0,Up,Heart disease
+M,NAP,0,Normal,Y,1,Flat,Heart disease
+M,ASY,1,ST,N,1.2,Flat,Heart disease
+M,ASY,1,Normal,Y,2,Flat,Heart disease
+M,ASY,0,ST,Y,0,Up,Heart disease
+M,ASY,0,ST,Y,0.5,Flat,Heart disease
+M,ASY,0,Normal,Y,0.5,Flat,Heart disease
+M,ASY,0,Normal,Y,2,Flat,Heart disease
+F,ASY,0,Normal,N,0,Flat,Heart disease
+M,ASY,0,Normal,N,0,Flat,Heart disease
+M,ASY,0,Normal,Y,0,Flat,Heart disease
+M,ASY,0,Normal,Y,0,Flat,Heart disease
+M,ASY,0,LVH,Y,1,Flat,Heart disease
+M,ASY,0,Normal,N,0,Flat,Heart disease
+M,ASY,1,ST,N,1,Flat,Heart disease
+M,ASY,0,Normal,N,0,Flat,Heart disease
+M,ASY,0,ST,Y,0,Flat,Heart disease
+M,ASY,0,LVH,N,0,Flat,Heart disease
+M,ASY,1,Normal,Y,0.7,Flat,Heart disease
+M,ASY,1,Normal,Y,2,Flat,Heart disease
+M,ASY,1,Normal,N,0,Flat,Heart disease
+F,TA,1,Normal,N,0,Flat,Heart disease
+M,ASY,1,ST,Y,0,Flat,Heart disease
+M,ASY,1,Normal,Y,1,Up,Heart disease
+M,NAP,1,ST,N,0,Flat,Heart disease
+F,ASY,1,Normal,N,0,Flat,Heart disease
+M,ASY,1,ST,N,0,Flat,Heart disease
+M,ASY,1,ST,N,0.7,Flat,Heart disease
+M,ASY,1,Normal,Y,2,Flat,Heart disease
+M,NAP,1,Normal,Y,0,Flat,Heart disease
+M,ASY,1,Normal,Y,1.2,Flat,Heart disease
+M,ASY,1,Normal,Y,0,Flat,Heart disease
+M,ASY,1,Normal,Y,-0.5,Flat,Heart disease
+M,ASY,1,Normal,N,0,Flat,Heart disease
+M,NAP,1,LVH,Y,0,Flat,Heart disease
+M,ASY,1,ST,N,2,Flat,Heart disease
+M,ASY,1,Normal,N,1.5,Flat,Heart disease
+M,ASY,1,Normal,Y,1,Flat,Heart disease
+M,NAP,1,Normal,N,-2,Flat,Heart disease
+M,ASY,1,Normal,Y,3,Flat,Heart disease
+F,ASY,1,Normal,N,0,Flat,Heart disease
+M,ASY,0,ST,Y,3,Flat,Heart disease
+M,ASY,0,ST,N,0,Up,Normal
+M,ASY,0,ST,Y,1.5,Down,Heart disease
+M,ASY,0,ST,Y,2.5,Up,Heart disease
+M,NAP,1,LVH,Y,1.3,Flat,Normal
+M,NAP,0,ST,N,-0.5,Up,Normal
+M,ASY,1,ST,Y,0,Flat,Heart disease
+M,NAP,0,ST,Y,1.5,Flat,Normal
+M,NAP,1,Normal,Y,2,Up,Heart disease
+M,ATA,1,ST,N,0.5,Flat,Heart disease
+M,ATA,0,ST,N,0,Up,Normal
+M,ASY,0,ST,Y,1,Flat,Heart disease
+M,ASY,0,Normal,Y,0.5,Flat,Heart disease
+M,NAP,0,LVH,Y,1,Flat,Heart disease
+M,ASY,1,ST,Y,1,Flat,Heart disease
+M,ASY,0,ST,N,0,Up,Normal
+M,ASY,0,Normal,Y,2.5,Down,Heart disease
+M,ASY,0,Normal,Y,2,Flat,Heart disease
+M,ASY,0,ST,N,1.5,Down,Normal
+M,ASY,0,ST,Y,0,Up,Normal
+M,ASY,0,Normal,N,1,Up,Heart disease
+M,ASY,1,ST,N,2,Flat,Heart disease
+M,NAP,0,ST,Y,0,Flat,Heart disease
+M,NAP,0,Normal,N,0.2,Up,Normal
+M,NAP,0,ST,N,3,Up,Heart disease
+M,ASY,1,ST,N,1,Flat,Heart disease
+M,ASY,1,ST,Y,1.2,Flat,Heart disease
+M,ASY,1,ST,Y,0.5,Flat,Heart disease
+M,ASY,0,Normal,Y,1.5,Flat,Heart disease
+M,NAP,0,ST,Y,1.6,Flat,Heart disease
+M,ASY,0,ST,Y,1.4,Flat,Heart disease
+M,ASY,0,ST,Y,2,Up,Heart disease
+M,ASY,1,Normal,Y,1,Flat,Heart disease
+M,NAP,0,Normal,N,1.5,Flat,Heart disease
+M,NAP,0,Normal,Y,2,Down,Heart disease
+M,ASY,0,ST,Y,1,Flat,Heart disease
+M,ASY,0,ST,Y,1.5,Flat,Heart disease
+M,ASY,0,Normal,Y,2,Up,Normal
+M,ASY,1,Normal,Y,1.2,Flat,Heart disease
+M,ASY,0,ST,Y,1.5,Up,Normal
+M,NAP,0,Normal,Y,0,Flat,Heart disease
+M,ASY,1,Normal,N,0,Flat,Heart disease
+M,ASY,1,ST,N,1.5,Flat,Heart disease
+M,ASY,0,ST,N,0,Up,Normal
+M,ASY,1,ST,Y,1.9,Flat,Heart disease
+M,ASY,0,Normal,Y,0,Flat,Heart disease
+M,ASY,0,Normal,Y,1.3,Down,Heart disease
+M,ASY,0,Normal,N,0,Up,Normal
+M,NAP,0,Normal,Y,2,Down,Heart disease
+M,NAP,0,Normal,N,0,Up,Normal
+M,NAP,0,ST,Y,2.5,Flat,Heart disease
+F,ATA,0,Normal,N,0.1,Up,Normal
+M,ASY,0,ST,Y,1.6,Up,Heart disease
+M,ATA,1,Normal,N,2,Flat,Normal
+M,ASY,0,Normal,N,0,Flat,Heart disease
+M,ASY,0,Normal,Y,3,Flat,Heart disease
+M,ASY,1,ST,Y,1.5,Flat,Heart disease
+M,NAP,1,ST,Y,1.7,Flat,Heart disease
+M,ATA,0,Normal,N,0.1,Up,Normal
+M,ASY,1,LVH,Y,0,Flat,Heart disease
+M,ASY,1,LVH,N,0.1,Up,Normal
+M,ASY,1,Normal,Y,2,Down,Heart disease
+M,ASY,1,ST,Y,2,Flat,Heart disease
+M,NAP,0,LVH,Y,2.5,Flat,Heart disease
+M,ATA,1,Normal,Y,2,Flat,Heart disease
+M,NAP,1,ST,N,2.5,Down,Heart disease
+M,TA,1,Normal,N,2.5,Up,Heart disease
+M,ASY,0,LVH,Y,1.5,Down,Heart disease
+M,ASY,0,Normal,Y,1.1,Flat,Heart disease
+M,ATA,1,ST,Y,1.2,Flat,Heart disease
+M,ATA,1,ST,N,0.4,Up,Normal
+M,ASY,0,ST,Y,2,Flat,Heart disease
+M,TA,0,Normal,N,0.3,Up,Normal
+M,ASY,0,Normal,Y,3,Flat,Heart disease
+M,NAP,0,Normal,Y,1,Flat,Heart disease
+M,ASY,1,ST,N,0,Flat,Heart disease
+M,TA,0,ST,N,3,Flat,Heart disease
+M,NAP,0,Normal,Y,1.7,Flat,Heart disease
+M,ASY,0,Normal,Y,2.5,Flat,Heart disease
+F,ASY,0,Normal,Y,1,Flat,Heart disease
+M,ASY,1,Normal,N,1,Down,Normal
+M,ASY,0,Normal,Y,3,Down,Heart disease
+M,ASY,1,ST,Y,0,Flat,Heart disease
+M,ASY,0,Normal,Y,1,Flat,Heart disease
+M,ASY,0,Normal,Y,4,Down,Heart disease
+M,ASY,0,Normal,Y,2,Flat,Heart disease
+M,ASY,0,ST,Y,2,Flat,Heart disease
+M,ASY,1,ST,N,0.2,Up,Normal
+M,ASY,1,Normal,Y,3,Down,Heart disease
+M,NAP,1,ST,Y,1.2,Flat,Heart disease
+M,ASY,0,Normal,Y,3,Flat,Heart disease
+M,NAP,0,Normal,Y,0,Up,Normal
+M,ASY,1,Normal,N,1.5,Down,Heart disease
+M,ASY,0,Normal,N,0,Flat,Heart disease
+M,ASY,0,Normal,N,0.3,Up,Normal
+M,ASY,1,ST,Y,2,Flat,Heart disease
+M,NAP,0,ST,N,-0.1,Up,Normal
+M,TA,0,ST,Y,1.3,Flat,Heart disease
+M,ASY,0,Normal,N,0.5,Up,Heart disease
+M,NAP,1,ST,N,3,Flat,Normal
+M,NAP,1,Normal,N,0,Flat,Heart disease
+M,ASY,0,Normal,Y,1.5,Flat,Heart disease
+M,NAP,1,ST,Y,1,Down,Heart disease
+M,ASY,0,ST,Y,1,Up,Heart disease
+M,ASY,0,ST,N,0.5,Flat,Normal
+M,ASY,0,ST,Y,4,Down,Heart disease
+M,ASY,0,LVH,Y,1,Up,Heart disease
+M,ASY,0,Normal,Y,1,Flat,Heart disease
+M,ASY,0,ST,N,0,Up,Normal
+M,NAP,0,Normal,N,0.1,Up,Normal
+M,ASY,0,LVH,Y,1.7,Flat,Heart disease
+M,ATA,0,Normal,N,0.3,Up,Normal
+M,NAP,0,Normal,Y,1.5,Flat,Heart disease
+M,ASY,0,Normal,Y,1.4,Flat,Heart disease
+M,ASY,0,Normal,Y,1.1,Flat,Heart disease
+M,ASY,1,ST,Y,1.8,Flat,Heart disease
+M,ASY,1,ST,N,0,Flat,Heart disease
+M,ASY,0,ST,Y,2,Flat,Heart disease
+M,ASY,0,Normal,Y,2.5,Down,Heart disease
+M,ASY,0,LVH,Y,1,Flat,Heart disease
+M,NAP,1,ST,Y,1.2,Flat,Heart disease
+M,ASY,1,ST,Y,4,Down,Heart disease
+M,ASY,1,Normal,Y,2,Flat,Heart disease
+M,ASY,0,LVH,N,0,Up,Normal
+M,NAP,0,ST,Y,1.2,Flat,Heart disease
+M,NAP,0,LVH,N,3.5,Down,Heart disease
+F,ASY,0,Normal,Y,1.5,Flat,Heart disease
+M,ASY,0,ST,Y,3,Down,Heart disease
+F,ATA,1,Normal,Y,0,Up,Normal
+M,ASY,0,ST,N,0.2,Up,Normal
+M,NAP,1,ST,N,0,Flat,Heart disease
+M,TA,1,ST,N,1.5,Down,Heart disease
+M,ASY,0,Normal,N,1.5,Up,Heart disease
+M,TA,1,ST,N,0.2,Up,Normal
+M,ASY,0,Normal,N,2,Flat,Heart disease
+M,NAP,0,LVH,N,0,Up,Normal
+M,NAP,0,Normal,Y,1.8,Flat,Heart disease
+M,TA,1,Normal,Y,1.8,Flat,Heart disease
+M,NAP,1,ST,N,0.3,Up,Normal
+M,NAP,0,ST,Y,0,Flat,Heart disease
+M,ASY,1,Normal,Y,2,Down,Normal
+M,NAP,1,ST,Y,1.8,Flat,Heart disease
+M,NAP,0,ST,Y,1.4,Flat,Heart disease
+M,ASY,0,Normal,Y,4,Down,Heart disease
+M,NAP,0,ST,N,0.2,Up,Normal
+M,ATA,0,ST,N,0.1,Up,Normal
+M,ASY,0,Normal,Y,2,Flat,Normal
+M,ASY,1,ST,Y,1.1,Flat,Heart disease
+M,ASY,1,ST,Y,2,Flat,Heart disease
+M,ASY,0,ST,Y,1.7,Flat,Heart disease
+M,ASY,0,Normal,Y,1.5,Flat,Normal
+M,ASY,0,ST,Y,0,Flat,Heart disease
+M,ASY,0,Normal,Y,1.5,Down,Heart disease
+M,ASY,0,Normal,Y,2.5,Flat,Heart disease
+M,ASY,0,ST,Y,2,Down,Heart disease
+M,ASY,1,Normal,Y,1.5,Flat,Heart disease
+M,ASY,0,ST,Y,0.5,Flat,Heart disease
+M,ASY,1,LVH,N,1.5,Flat,Heart disease
+M,ASY,1,ST,Y,1.5,Flat,Heart disease
+M,ASY,1,Normal,Y,1.2,Flat,Heart disease
+M,ASY,0,ST,Y,3,Flat,Heart disease
+M,ASY,0,Normal,Y,1.9,Flat,Heart disease
+M,ASY,0,LVH,Y,3,Down,Heart disease
+M,ASY,1,ST,Y,1.8,Flat,Heart disease
+M,ASY,1,LVH,Y,1,Flat,Heart disease
+M,ASY,0,Normal,Y,1.5,Up,Heart disease
+M,ASY,1,LVH,Y,0,Flat,Heart disease
+M,NAP,0,LVH,N,0.3,Up,Normal
+M,ASY,1,ST,Y,1.5,Flat,Heart disease
+M,ATA,1,ST,N,0.8,Flat,Heart disease
+M,ASY,0,Normal,Y,2,Flat,Heart disease
+M,NAP,0,LVH,N,1,Flat,Normal
+M,ASY,0,ST,Y,2,Flat,Heart disease
+M,NAP,1,Normal,N,0,Flat,Heart disease
+M,ATA,0,ST,N,0.2,Up,Normal
+M,ASY,0,ST,N,0,Up,Normal
+M,ASY,1,LVH,Y,2,Down,Heart disease
+M,ASY,1,LVH,N,0,Flat,Heart disease
+M,ASY,1,LVH,Y,1,Up,Heart disease
+M,ASY,1,LVH,Y,0.5,Flat,Heart disease
+M,ASY,0,LVH,N,0,Flat,Heart disease
+M,NAP,0,ST,N,0.2,Up,Normal
+M,ASY,0,LVH,Y,1.7,Down,Heart disease
+M,ASY,1,Normal,N,1.5,Flat,Heart disease
+M,ASY,0,ST,Y,1,Flat,Normal
+M,NAP,0,Normal,Y,1.3,Flat,Heart disease
+M,NAP,0,Normal,Y,0,Flat,Heart disease
+M,ASY,0,Normal,Y,1.5,Down,Heart disease
+M,NAP,1,Normal,Y,0,Up,Normal
+F,ASY,1,LVH,N,1,Up,Normal
+M,ASY,1,ST,Y,3,Flat,Heart disease
+M,ASY,1,ST,Y,1.5,Flat,Heart disease
+M,ASY,0,ST,Y,0,Flat,Heart disease
+M,ASY,0,Normal,N,0,Flat,Heart disease
+F,ASY,1,ST,N,0,Flat,Heart disease
+M,TA,0,ST,N,0.2,Up,Normal
+M,ASY,1,ST,N,0,Flat,Heart disease
+M,ASY,1,LVH,N,0.3,Up,Normal
+M,ATA,0,LVH,Y,0,Flat,Heart disease
+M,ASY,0,LVH,N,2.4,Flat,Heart disease
+F,NAP,0,LVH,N,1.6,Flat,Normal
+M,ATA,0,Normal,N,0.3,Up,Heart disease
+M,ASY,0,Normal,Y,0.2,Flat,Normal
+F,ATA,0,LVH,Y,0.2,Up,Normal
+M,ASY,0,Normal,N,0.4,Up,Normal
+M,NAP,1,LVH,Y,0.6,Flat,Heart disease
+M,ASY,0,LVH,Y,1.2,Flat,Heart disease
+M,ASY,0,LVH,N,1.2,Flat,Heart disease
+F,ASY,0,LVH,N,4,Flat,Heart disease
+M,ASY,0,Normal,N,0.5,Flat,Normal
+M,ASY,0,LVH,Y,0,Up,Normal
+M,NAP,0,LVH,N,0,Up,Normal
+M,TA,0,Normal,N,2.6,Flat,Heart disease
+F,ASY,0,LVH,N,0,Up,Normal
+F,ASY,0,Normal,N,1.6,Flat,Normal
+M,ASY,0,Normal,Y,1.8,Flat,Heart disease
+M,ASY,1,LVH,Y,3.1,Down,Heart disease
+M,TA,0,LVH,Y,1.8,Flat,Normal
+M,TA,0,Normal,Y,1.4,Up,Normal
+M,ASY,0,LVH,Y,2.6,Flat,Heart disease
+M,ATA,0,LVH,N,0.2,Flat,Normal
+M,ASY,0,Normal,N,1.2,Flat,Normal
+M,ASY,0,Normal,N,0.1,Up,Normal
+F,ATA,1,LVH,Y,0,Up,Normal
+F,NAP,0,Normal,N,0.2,Up,Normal
+F,ASY,0,LVH,Y,0,Flat,Normal
+F,NAP,0,LVH,N,0.6,Up,Normal
+M,NAP,0,LVH,N,2.5,Flat,Heart disease
+F,NAP,1,LVH,N,0,Up,Normal
+M,NAP,0,LVH,N,0.4,Flat,Heart disease
+M,ASY,0,LVH,N,2.3,Up,Normal
+F,NAP,0,Normal,N,0,Up,Normal
+M,ASY,0,LVH,Y,3.4,Down,Heart disease
+M,ASY,0,LVH,Y,0.9,Flat,Heart disease
+M,ASY,1,LVH,Y,0,Up,Heart disease
+M,ASY,0,LVH,Y,1.9,Up,Heart disease
+M,TA,0,LVH,N,0,Up,Heart disease
+M,NAP,0,Normal,N,0,Up,Normal
+M,ASY,0,LVH,N,0,Up,Normal
+M,ASY,0,Normal,N,0,Up,Heart disease
+F,ASY,0,Normal,N,0,Up,Normal
+M,NAP,0,Normal,Y,0.4,Up,Normal
+M,ATA,1,Normal,N,0,Up,Normal
+M,NAP,1,Normal,N,2.2,Flat,Heart disease
+M,NAP,1,LVH,N,0,Up,Normal
+M,NAP,0,LVH,N,0.8,Up,Heart disease
+M,ASY,0,LVH,N,0,Up,Heart disease
+M,ATA,0,Normal,Y,0,Flat,Heart disease
+F,ASY,0,LVH,N,1,Flat,Heart disease
+M,ASY,0,Normal,Y,1.8,Flat,Heart disease
+M,ATA,1,Normal,N,0,Up,Normal
+F,NAP,1,LVH,N,0.8,Up,Normal
+F,ATA,0,Normal,N,0,Up,Normal
+F,ATA,0,LVH,N,0.6,Flat,Normal
+F,ATA,0,Normal,N,0,Up,Normal
+M,ASY,0,LVH,Y,3.6,Flat,Heart disease
+F,NAP,1,Normal,N,0,Up,Normal
+F,ASY,0,Normal,Y,0,Flat,Heart disease
+M,ATA,0,LVH,N,1.4,Flat,Heart disease
+M,NAP,1,Normal,N,0.2,Up,Normal
+F,ASY,0,Normal,Y,1.2,Flat,Heart disease
+M,NAP,0,Normal,N,0,Up,Normal
+F,TA,0,Normal,N,0.9,Up,Normal
+M,TA,1,LVH,N,2.3,Down,Normal
+M,ASY,0,LVH,Y,0.6,Flat,Heart disease
+M,ASY,0,LVH,Y,0,Up,Normal
+F,ATA,1,LVH,N,0,Up,Heart disease
+F,NAP,0,Normal,N,0.3,Flat,Normal
+M,NAP,0,Normal,N,0,Up,Heart disease
+M,ASY,0,Normal,Y,3.6,Flat,Heart disease
+F,ASY,0,Normal,Y,0.6,Up,Normal
+M,ATA,0,LVH,N,0,Up,Normal
+F,NAP,0,ST,N,1.1,Flat,Normal
+F,ASY,0,Normal,N,0.3,Up,Normal
+M,ASY,0,LVH,Y,0,Flat,Heart disease
+M,ASY,0,LVH,Y,3,Flat,Normal
+F,NAP,0,Normal,N,0,Up,Normal
+F,NAP,0,Normal,N,0,Flat,Normal
+M,ATA,0,Normal,N,0.8,Up,Normal
+M,ASY,0,Normal,N,2,Flat,Heart disease
+M,ASY,0,Normal,Y,1.6,Flat,Heart disease
+M,ASY,0,LVH,Y,0.8,Up,Heart disease
+M,NAP,0,LVH,N,2,Flat,Normal
+M,ASY,0,Normal,Y,1.5,Flat,Normal
+M,TA,0,LVH,N,0.8,Up,Normal
+M,ATA,1,LVH,N,0,Up,Normal
+M,TA,0,LVH,N,4.2,Down,Normal
+F,ATA,0,Normal,N,0,Up,Normal
+M,ASY,0,LVH,N,2.6,Flat,Heart disease
+M,ATA,0,Normal,Y,0,Up,Normal
+F,ASY,0,LVH,N,0,Up,Heart disease
+M,ASY,0,LVH,Y,2.2,Flat,Heart disease
+M,ASY,0,LVH,Y,0,Flat,Heart disease
+M,ASY,0,Normal,N,1,Up,Heart disease
+M,ASY,0,LVH,Y,1,Flat,Heart disease
+M,ASY,0,LVH,N,0.4,Flat,Normal
+M,ASY,0,Normal,N,0.1,Up,Heart disease
+F,NAP,0,Normal,N,0.2,Up,Normal
+F,ATA,0,Normal,N,1.1,Up,Normal
+F,NAP,0,Normal,N,0.6,Flat,Normal
+M,ASY,0,Normal,N,1,Flat,Heart disease
+F,ASY,0,Normal,N,0,Up,Normal
+M,ASY,1,LVH,N,1,Flat,Heart disease
+M,ASY,0,LVH,N,1.4,Flat,Heart disease
+M,ASY,0,LVH,N,0.5,Flat,Heart disease
+M,NAP,0,Normal,Y,1.2,Flat,Normal
+F,ASY,0,LVH,N,2.6,Flat,Heart disease
+M,ASY,0,Normal,Y,0,Up,Heart disease
+F,ATA,0,Normal,N,0,Flat,Normal
+F,ASY,0,ST,Y,3.4,Flat,Heart disease
+M,ATA,0,Normal,N,0,Up,Normal
+F,ASY,0,LVH,N,0,Up,Heart disease
+F,NAP,1,Normal,N,0,Up,Normal
+M,ATA,0,Normal,N,0,Up,Normal
+F,ATA,0,Normal,N,0,Flat,Normal
+M,ASY,0,LVH,N,0.8,Up,Heart disease
+F,ASY,1,LVH,Y,4,Down,Heart disease
+F,TA,0,Normal,N,2.6,Down,Normal
+M,ASY,1,LVH,Y,1.6,Down,Heart disease
+M,NAP,0,Normal,N,2,Flat,Heart disease
+M,ASY,0,LVH,Y,3.2,Flat,Heart disease
+M,ASY,0,Normal,Y,1.2,Flat,Heart disease
+F,NAP,0,LVH,N,0.8,Up,Normal
+M,NAP,0,LVH,N,0.5,Down,Normal
+F,NAP,0,Normal,N,0,Up,Normal
+M,ASY,0,Normal,Y,1.8,Flat,Heart disease
+F,NAP,0,LVH,N,0.1,Flat,Normal
+M,ATA,0,Normal,N,0.8,Up,Normal
+M,ASY,1,Normal,Y,1.4,Up,Heart disease
+F,ASY,0,Normal,Y,1.8,Flat,Heart disease
+M,ASY,0,LVH,Y,0.1,Up,Heart disease
+M,ASY,0,Normal,N,0,Up,Normal
+M,ASY,0,LVH,Y,2.2,Down,Heart disease
+M,NAP,0,LVH,N,1.6,Up,Normal
+F,NAP,0,LVH,Y,1.4,Down,Normal
+F,NAP,0,Normal,N,0,Up,Normal
+M,ASY,1,LVH,Y,1.2,Flat,Heart disease
+F,ATA,0,Normal,N,0.7,Up,Normal
+M,ASY,0,Normal,Y,0,Up,Normal
+M,ASY,0,LVH,N,2,Flat,Heart disease
+M,ASY,0,LVH,N,0,Up,Normal
+M,NAP,0,Normal,N,0.6,Flat,Heart disease
+M,TA,0,LVH,Y,1.4,Up,Normal
+M,ATA,0,LVH,N,0,Up,Heart disease
+M,ASY,0,Normal,Y,2,Flat,Heart disease
+M,ASY,0,Normal,N,0,Up,Heart disease
+M,ASY,0,LVH,Y,2,Flat,Heart disease
+M,NAP,0,LVH,N,3.2,Up,Heart disease
+F,NAP,0,LVH,Y,0,Up,Normal
+M,NAP,0,Normal,N,0,Up,Normal
+F,NAP,0,Normal,N,1.6,Flat,Normal
+F,NAP,0,LVH,N,0,Up,Normal
+F,ASY,0,Normal,N,2,Flat,Normal
+F,NAP,0,LVH,N,0.5,Up,Normal
+F,ATA,0,Normal,N,0,Up,Normal
+M,ASY,0,Normal,Y,5.6,Down,Heart disease
+M,ATA,0,LVH,N,0,Up,Normal
+M,TA,0,LVH,N,1.9,Flat,Normal
+F,ASY,1,Normal,Y,1,Flat,Heart disease
+M,TA,0,Normal,Y,3.8,Flat,Heart disease
+F,ASY,0,Normal,Y,1.4,Flat,Heart disease
+M,ATA,0,Normal,N,0,Up,Normal
+M,ASY,0,LVH,Y,3,Flat,Heart disease
+M,ASY,0,Normal,N,0,Up,Normal
+F,ASY,0,Normal,Y,0,Up,Normal
+F,ASY,0,LVH,N,0,Up,Normal
+M,NAP,1,LVH,N,1.2,Down,Normal
+F,ASY,0,LVH,Y,0.2,Flat,Normal
+M,TA,1,LVH,N,1.4,Flat,Heart disease
+M,TA,1,LVH,N,0.1,Flat,Normal
+M,NAP,0,LVH,N,2,Flat,Heart disease
+M,ASY,0,LVH,Y,0.9,Flat,Heart disease
+F,NAP,0,LVH,N,1.5,Flat,Normal
+M,TA,0,LVH,N,0,Up,Normal
+F,ASY,1,Normal,N,1.9,Flat,Heart disease
+M,ASY,0,Normal,Y,4.2,Flat,Heart disease
+M,NAP,0,Normal,N,3.6,Flat,Heart disease
+M,ASY,1,Normal,N,0.2,Flat,Heart disease
+M,NAP,0,Normal,N,0,Up,Normal
+M,NAP,1,Normal,N,0.8,Down,Normal
+F,ASY,0,LVH,Y,1.9,Flat,Heart disease
+M,ASY,0,LVH,N,0,Up,Heart disease
+F,ASY,0,LVH,N,0.6,Flat,Normal
+M,NAP,1,LVH,N,0,Up,Normal
+M,NAP,0,Normal,N,1.9,Up,Normal
+M,ASY,0,LVH,Y,2.1,Flat,Heart disease
+M,ASY,1,Normal,N,0.1,Up,Normal
+F,ASY,0,LVH,N,1.2,Flat,Normal
+M,NAP,0,Normal,Y,2.9,Flat,Heart disease
+M,ASY,0,Normal,N,1.2,Up,Normal
+M,ASY,0,Normal,Y,2.6,Down,Heart disease
+M,ATA,0,Normal,N,0,Up,Normal
+M,ASY,0,LVH,Y,0,Up,Heart disease
+M,NAP,1,Normal,N,0,Up,Normal
+F,ATA,0,LVH,N,1.4,Flat,Normal
+F,ASY,0,LVH,N,1,Flat,Normal
+F,NAP,0,Normal,N,1.6,Flat,Normal
+F,TA,0,Normal,N,1.8,Up,Normal
+M,ASY,0,LVH,Y,0,Up,Heart disease
+M,NAP,0,Normal,N,1,Up,Normal
+M,ASY,0,LVH,N,0,Up,Heart disease
+M,ASY,0,LVH,Y,2.8,Flat,Heart disease
+M,ASY,0,Normal,Y,1.6,Up,Heart disease
+M,ASY,0,LVH,Y,0.8,Flat,Heart disease
+M,TA,1,Normal,N,1.2,Flat,Normal
+F,NAP,0,Normal,N,0,Up,Normal
+M,NAP,0,LVH,Y,0.6,Flat,Normal
+M,NAP,0,Normal,Y,1.8,Flat,Heart disease
+M,NAP,0,Normal,N,3.5,Down,Normal
+M,TA,0,LVH,N,0.2,Flat,Heart disease
+M,NAP,1,LVH,N,2.4,Flat,Normal
+F,NAP,0,Normal,N,0.2,Flat,Normal
+M,ASY,0,LVH,Y,2.2,Flat,Heart disease
+M,ATA,0,LVH,N,0,Up,Normal
+F,ATA,0,LVH,N,1.4,Up,Normal
+F,NAP,0,LVH,N,0,Up,Normal
+M,NAP,0,Normal,Y,0,Up,Normal
+M,NAP,0,LVH,N,0.4,Flat,Normal
+M,ATA,0,Normal,N,0,Up,Normal
+M,ASY,0,Normal,Y,2.8,Flat,Heart disease
+M,ASY,0,LVH,N,2.8,Flat,Heart disease
+M,NAP,0,Normal,N,1.6,Up,Normal
+M,ASY,1,LVH,Y,1.8,Up,Heart disease
+F,ASY,0,Normal,N,1.4,Up,Normal
+M,ATA,0,Normal,N,0,Flat,Normal
+F,NAP,0,Normal,N,1.2,Flat,Heart disease
+F,ASY,1,LVH,Y,3,Flat,Heart disease
+F,TA,1,LVH,N,1,Up,Normal
+M,TA,0,LVH,N,0,Flat,Normal
+F,ASY,0,LVH,Y,1,Flat,Heart disease
+M,ASY,0,Normal,N,1.2,Flat,Heart disease
+M,ASY,0,LVH,N,0,Up,Normal
+M,ASY,0,Normal,Y,0,Up,Heart disease
+M,NAP,0,Normal,N,1.8,Flat,Normal
+F,ASY,0,LVH,N,6.2,Down,Heart disease
+F,ASY,0,LVH,N,0,Up,Normal
+M,ASY,0,LVH,Y,2.5,Flat,Heart disease
+M,NAP,0,LVH,N,0,Up,Normal
+M,ATA,0,Normal,N,0.2,Up,Normal
+M,NAP,1,LVH,Y,1.6,Flat,Heart disease
+M,NAP,0,LVH,N,0,Up,Normal
+F,ASY,0,LVH,N,0.4,Flat,Normal
+F,ASY,0,LVH,N,3.6,Down,Heart disease
+F,NAP,0,LVH,N,1.5,Up,Normal
+M,ASY,0,Normal,Y,1.4,Up,Heart disease
+M,ASY,0,LVH,N,0.6,Up,Heart disease
+F,NAP,0,Normal,N,0.8,Up,Normal
+M,NAP,0,LVH,N,3,Flat,Heart disease
+M,ASY,0,LVH,Y,2.8,Flat,Heart disease
+M,ASY,0,Normal,N,1.4,Flat,Heart disease
+M,ATA,0,LVH,N,0,Up,Normal
+M,ASY,0,LVH,N,0,Up,Heart disease
+M,NAP,0,Normal,N,0.6,Up,Normal
+M,NAP,1,Normal,N,1.6,Up,Normal
+F,ATA,0,Normal,N,0.4,Up,Normal
+M,NAP,1,Normal,Y,1,Flat,Normal
+M,ASY,0,Normal,Y,1.2,Flat,Heart disease
+M,NAP,0,Normal,N,0,Up,Heart disease
+M,ASY,0,Normal,N,1.5,Up,Normal
+F,NAP,0,Normal,N,0,Up,Normal
+M,ASY,0,LVH,Y,2.4,Flat,Heart disease
+M,ATA,0,LVH,N,1.8,Flat,Heart disease
+M,ATA,0,Normal,N,0.6,Up,Normal
+M,ATA,0,Normal,N,1,Down,Heart disease
+M,NAP,1,Normal,N,0.5,Up,Normal
+M,ATA,0,Normal,N,0,Up,Normal
+F,ATA,0,LVH,N,1.3,Flat,Normal
+M,ASY,0,Normal,N,0.4,Flat,Normal
+M,ASY,0,LVH,Y,1.5,Flat,Heart disease
+F,NAP,0,LVH,N,0,Up,Normal
+M,NAP,0,Normal,N,0,Up,Normal
+M,ASY,1,LVH,Y,0.1,Flat,Heart disease
+M,ASY,1,Normal,Y,1,Flat,Heart disease
+M,TA,0,Normal,N,0.8,Up,Heart disease
+M,TA,0,LVH,N,0.6,Flat,Normal
+F,NAP,0,LVH,N,0,Flat,Normal
+F,NAP,0,Normal,N,0,Flat,Normal
+M,ATA,0,LVH,N,0,Up,Heart disease
+F,ASY,0,Normal,N,0.6,Flat,Normal
+M,ASY,0,Normal,Y,3,Flat,Heart disease
+M,NAP,0,Normal,N,0,Up,Normal
+F,ASY,0,ST,Y,2,Flat,Heart disease
+M,ATA,0,Normal,N,0,Up,Normal
+M,ASY,0,Normal,N,0,Up,Heart disease
+M,ASY,0,ST,N,4.4,Down,Heart disease
+F,ASY,1,LVH,Y,2.8,Flat,Heart disease
+M,ATA,0,Normal,N,0.4,Flat,Normal
+M,ATA,0,LVH,N,0,Up,Normal
+M,ATA,0,Normal,N,0,Down,Normal
+M,NAP,0,LVH,N,0.8,Flat,Heart disease
+F,ATA,0,Normal,N,1.2,Up,Normal
+M,ASY,0,Normal,Y,2.8,Down,Heart disease
+M,ASY,0,LVH,Y,4,Up,Heart disease
+F,ASY,0,Normal,Y,0,Flat,Heart disease
+M,ATA,0,Normal,N,0,Up,Normal
+M,ASY,1,LVH,N,1,Flat,Heart disease
+F,ASY,0,Normal,Y,0.2,Flat,Heart disease
+M,TA,0,Normal,N,1.2,Flat,Heart disease
+M,ASY,1,Normal,N,3.4,Flat,Heart disease
+M,ASY,0,Normal,Y,1.2,Flat,Heart disease
+F,ATA,0,LVH,N,0,Flat,Heart disease
+M,NAP,0,Normal,N,0,Up,Normal
