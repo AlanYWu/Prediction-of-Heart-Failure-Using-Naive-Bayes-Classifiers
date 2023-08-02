@@ -1,919 +1,919 @@
-Age,RestingBP,Cholesterol,MaxHR,HeartDisease
-40,140,289,172,Normal
-49,160,180,156,Heart disease
-37,130,283,98,Normal
-48,138,214,108,Heart disease
-54,150,195,122,Normal
-39,120,339,170,Normal
-45,130,237,170,Normal
-54,110,208,142,Normal
-37,140,207,130,Heart disease
-48,120,284,120,Normal
-37,130,211,142,Normal
-58,136,164,99,Heart disease
-39,120,204,145,Normal
-49,140,234,140,Heart disease
-42,115,211,137,Normal
-54,120,273,150,Normal
-38,110,196,166,Heart disease
-43,120,201,165,Normal
-60,100,248,125,Heart disease
-36,120,267,160,Heart disease
-43,100,223,142,Normal
-44,120,184,142,Normal
-49,124,201,164,Normal
-44,150,288,150,Heart disease
-40,130,215,138,Normal
-36,130,209,178,Normal
-53,124,260,112,Normal
-52,120,284,118,Normal
-53,113,468,127,Normal
-51,125,188,145,Normal
-53,145,518,130,Heart disease
-56,130,167,114,Normal
-54,125,224,122,Heart disease
-41,130,172,130,Heart disease
-43,150,186,154,Normal
-32,125,254,155,Normal
-65,140,306,87,Heart disease
-41,110,250,142,Normal
-48,120,177,148,Normal
-48,150,227,130,Normal
-54,150,230,130,Normal
-54,130,294,100,Heart disease
-35,150,264,168,Normal
-52,140,259,170,Normal
-43,120,175,120,Heart disease
-59,130,318,120,Normal
-37,120,223,168,Normal
-50,140,216,170,Normal
-36,112,340,184,Normal
-41,110,289,170,Heart disease
-50,130,233,121,Heart disease
-47,120,205,98,Heart disease
-45,140,224,122,Normal
-41,130,245,150,Normal
-52,130,180,140,Normal
-51,160,194,170,Normal
-31,120,270,153,Heart disease
-58,130,213,140,Heart disease
-54,150,365,134,Normal
-52,112,342,96,Heart disease
-49,100,253,174,Normal
-43,150,254,175,Normal
-45,140,224,144,Normal
-46,120,277,125,Heart disease
-50,110,202,145,Normal
-37,120,260,130,Normal
-45,132,297,144,Normal
-32,110,225,184,Normal
-52,160,246,82,Heart disease
-44,150,412,170,Normal
-57,140,265,145,Heart disease
-44,130,215,135,Normal
-52,120,182,150,Heart disease
-44,120,218,115,Normal
-55,140,268,128,Heart disease
-46,150,163,116,Normal
-32,118,529,130,Heart disease
-35,140,167,150,Normal
-52,140,100,138,Normal
-49,130,206,170,Heart disease
-55,110,277,160,Normal
-54,120,238,154,Normal
-63,150,223,115,Heart disease
-52,160,196,165,Normal
-56,150,213,125,Heart disease
-66,140,139,94,Heart disease
-65,170,263,112,Heart disease
-53,140,216,142,Normal
-43,120,291,155,Heart disease
-55,140,229,110,Normal
-49,110,208,160,Normal
-39,130,307,140,Normal
-52,120,210,148,Normal
-48,160,329,92,Heart disease
-39,110,182,180,Normal
-58,130,263,140,Heart disease
-43,142,207,138,Normal
-39,160,147,160,Normal
-56,120,85,140,Normal
-41,125,269,144,Normal
-65,130,275,115,Heart disease
-51,130,179,100,Normal
-40,150,392,130,Heart disease
-40,120,466,152,Heart disease
-46,118,186,124,Heart disease
-57,140,260,140,Normal
-48,120,254,110,Normal
-34,150,214,168,Normal
-50,140,129,135,Normal
-39,190,241,106,Normal
-59,130,188,124,Normal
-57,150,255,92,Heart disease
-47,140,276,125,Normal
-38,140,297,150,Normal
-49,130,207,135,Normal
-33,100,246,150,Heart disease
-38,120,282,170,Heart disease
-59,130,338,130,Heart disease
-35,120,160,185,Normal
-34,140,156,180,Heart disease
-47,135,248,170,Heart disease
-52,125,272,139,Normal
-46,110,240,140,Normal
-58,180,393,110,Heart disease
-58,130,230,150,Normal
-54,120,246,110,Normal
-34,130,161,190,Normal
-48,108,163,175,Normal
-54,120,230,140,Normal
-42,120,228,152,Normal
-38,145,292,130,Normal
-46,110,202,150,Heart disease
-56,170,388,122,Heart disease
-56,150,230,124,Heart disease
-61,130,294,120,Normal
-49,115,265,175,Heart disease
-43,120,215,175,Normal
-39,120,241,146,Normal
-54,140,166,118,Heart disease
-43,150,247,130,Heart disease
-52,160,331,94,Heart disease
-50,140,341,125,Heart disease
-47,160,291,158,Heart disease
-53,140,243,155,Normal
-56,120,279,150,Heart disease
-39,110,273,132,Normal
-42,120,198,155,Normal
-43,120,249,176,Normal
-50,120,168,160,Normal
-54,130,603,125,Heart disease
-39,130,215,120,Normal
-48,100,159,100,Normal
-40,130,275,150,Normal
-55,120,270,140,Normal
-41,120,291,160,Normal
-56,155,342,150,Heart disease
-38,110,190,150,Heart disease
-49,140,185,130,Normal
-44,130,290,100,Heart disease
-54,160,195,130,Normal
-59,140,264,119,Heart disease
-49,128,212,96,Heart disease
-47,160,263,174,Normal
-42,120,196,150,Normal
-52,140,225,140,Normal
-46,140,272,175,Heart disease
-50,140,231,140,Heart disease
-48,140,238,118,Normal
-58,135,222,100,Normal
-58,140,179,160,Normal
-29,120,243,160,Normal
-40,140,235,188,Normal
-53,140,320,162,Normal
-49,140,187,172,Normal
-52,140,266,134,Heart disease
-43,140,288,135,Heart disease
-54,140,216,105,Heart disease
-59,140,287,150,Normal
-37,130,194,150,Normal
-46,130,238,90,Normal
-52,130,225,120,Heart disease
-51,130,224,150,Normal
-52,140,404,124,Heart disease
-46,110,238,140,Normal
-54,160,312,130,Normal
-58,160,211,92,Heart disease
-58,130,251,110,Normal
-41,120,237,138,Heart disease
-50,120,328,110,Normal
-53,180,285,120,Heart disease
-46,180,280,120,Normal
-50,170,209,116,Normal
-48,130,245,160,Normal
-45,135,192,110,Normal
-41,125,184,180,Normal
-62,160,193,116,Normal
-49,120,297,132,Normal
-42,150,268,136,Normal
-53,120,246,116,Heart disease
-57,130,308,98,Normal
-47,110,249,150,Normal
-46,120,230,150,Normal
-42,160,147,146,Normal
-31,100,219,150,Normal
-56,130,184,100,Normal
-50,150,215,140,Normal
-35,120,308,180,Normal
-35,110,257,140,Heart disease
-28,130,132,185,Normal
-54,125,216,140,Heart disease
-48,106,263,110,Heart disease
-50,140,288,140,Heart disease
-56,130,276,128,Normal
-56,130,219,164,Normal
-47,150,226,98,Heart disease
-30,170,237,170,Normal
-39,110,280,150,Heart disease
-54,120,217,137,Normal
-55,140,196,150,Normal
-29,140,263,170,Normal
-46,130,222,112,Heart disease
-51,160,303,150,Heart disease
-48,120,195,125,Normal
-33,120,298,185,Normal
-55,120,256,137,Normal
-50,145,264,150,Heart disease
-53,120,195,140,Normal
-38,92,117,134,Heart disease
-41,120,295,170,Normal
-37,130,173,184,Normal
-37,130,315,158,Normal
-40,130,281,167,Normal
-38,120,275,129,Normal
-41,112,250,142,Normal
-54,140,309,140,Normal
-39,120,200,160,Normal
-41,120,336,118,Heart disease
-55,140,295,136,Heart disease
-48,160,355,99,Heart disease
-48,160,193,102,Heart disease
-55,145,326,155,Normal
-54,200,198,142,Heart disease
-55,160,292,143,Heart disease
-43,120,266,118,Normal
-48,160,268,103,Heart disease
-54,120,171,137,Normal
-54,120,237,150,Heart disease
-48,122,275,150,Heart disease
-45,130,219,130,Heart disease
-49,130,341,120,Heart disease
-44,135,491,135,Heart disease
-48,120,260,115,Heart disease
-61,125,292,115,Normal
-62,140,271,152,Normal
-55,145,248,96,Heart disease
-53,120,274,130,Normal
-55,130,394,150,Normal
-36,150,160,172,Normal
-51,150,200,120,Normal
-55,122,320,155,Normal
-46,140,275,165,Normal
-54,120,221,138,Normal
-46,120,231,115,Heart disease
-59,130,126,125,Heart disease
-47,140,193,145,Heart disease
-54,160,305,175,Normal
-52,130,298,110,Heart disease
-34,98,220,150,Normal
-54,130,242,91,Heart disease
-47,130,235,145,Normal
-45,120,225,140,Normal
-32,105,198,165,Normal
-55,140,201,130,Heart disease
-55,120,220,134,Normal
-45,180,295,180,Normal
-59,180,213,100,Normal
-51,135,160,150,Heart disease
-52,170,223,126,Heart disease
-57,180,347,126,Normal
-54,130,253,155,Normal
-60,120,246,135,Normal
-49,150,222,122,Heart disease
-51,130,220,160,Normal
-55,110,344,160,Normal
-42,140,358,170,Normal
-51,110,190,120,Normal
-59,140,169,140,Normal
-53,120,181,132,Normal
-48,133,308,156,Normal
-36,120,166,180,Normal
-48,110,211,138,Normal
-47,140,257,135,Normal
-53,130,182,148,Normal
-65,115,0,93,Heart disease
-32,95,0,127,Heart disease
-61,105,0,110,Heart disease
-50,145,0,139,Heart disease
-57,110,0,131,Heart disease
-51,110,0,92,Heart disease
-47,110,0,149,Heart disease
-60,160,0,149,Heart disease
-55,140,0,150,Normal
-53,125,0,120,Heart disease
-62,120,0,123,Heart disease
-51,95,0,126,Heart disease
-51,120,0,127,Heart disease
-55,115,0,155,Heart disease
-53,130,0,120,Normal
-58,115,0,138,Heart disease
-57,95,0,182,Heart disease
-65,155,0,154,Normal
-60,125,0,110,Heart disease
-41,125,0,176,Heart disease
-34,115,0,154,Heart disease
-53,80,0,141,Normal
-74,145,0,123,Heart disease
-57,105,0,148,Heart disease
-56,140,0,121,Heart disease
-61,130,0,77,Heart disease
-68,145,0,136,Heart disease
-59,125,0,175,Heart disease
-63,100,0,109,Heart disease
-38,105,0,166,Heart disease
-62,115,0,128,Heart disease
-46,100,0,133,Heart disease
-42,105,0,128,Heart disease
-45,110,0,138,Normal
-59,125,0,119,Heart disease
-52,95,0,82,Heart disease
-60,130,0,130,Heart disease
-60,115,0,143,Heart disease
-56,115,0,82,Heart disease
-38,100,0,179,Normal
-40,95,0,144,Heart disease
-51,130,0,170,Heart disease
-62,120,0,134,Heart disease
-72,160,0,114,Normal
-63,150,0,154,Heart disease
-63,140,0,149,Heart disease
-64,95,0,145,Heart disease
-43,100,0,122,Heart disease
-64,110,0,114,Heart disease
-61,110,0,113,Heart disease
-52,130,0,120,Heart disease
-51,120,0,104,Heart disease
-69,135,0,130,Heart disease
-59,120,0,115,Heart disease
-48,115,0,128,Heart disease
-69,137,0,104,Heart disease
-36,110,0,125,Heart disease
-53,120,0,120,Heart disease
-43,140,0,140,Heart disease
-56,120,0,100,Heart disease
-58,130,0,100,Heart disease
-55,120,0,92,Heart disease
-67,145,0,125,Heart disease
-46,115,0,113,Heart disease
-53,120,0,95,Heart disease
-38,115,0,128,Heart disease
-53,105,0,115,Heart disease
-62,160,0,72,Heart disease
-47,160,0,124,Heart disease
-56,155,0,99,Heart disease
-56,120,0,148,Heart disease
-56,120,0,97,Normal
-64,200,0,140,Heart disease
-61,150,0,117,Heart disease
-68,135,0,120,Heart disease
-57,140,0,120,Heart disease
-63,150,0,86,Heart disease
-60,135,0,63,Heart disease
-66,150,0,108,Heart disease
-63,185,0,98,Heart disease
-59,135,0,115,Heart disease
-61,125,0,105,Heart disease
-73,160,0,121,Heart disease
-47,155,0,118,Heart disease
-65,160,0,122,Heart disease
-70,140,0,157,Heart disease
-50,120,0,156,Heart disease
-60,160,0,99,Heart disease
-50,115,0,120,Heart disease
-43,115,0,145,Heart disease
-38,110,0,156,Heart disease
-54,120,0,155,Heart disease
-61,150,0,105,Heart disease
-42,145,0,99,Heart disease
-53,130,0,135,Heart disease
-55,140,0,83,Heart disease
-61,160,0,145,Heart disease
-51,140,0,60,Heart disease
-70,115,0,92,Heart disease
-61,130,0,115,Heart disease
-38,150,0,120,Heart disease
-57,160,0,98,Heart disease
-38,135,0,150,Heart disease
-62,140,0,143,Heart disease
-58,170,0,105,Heart disease
-52,165,0,122,Heart disease
-61,200,0,70,Heart disease
-50,160,0,110,Heart disease
-51,130,0,163,Heart disease
-65,145,0,67,Heart disease
-52,135,0,128,Heart disease
-47,110,0,120,Heart disease
-35,120,0,130,Heart disease
-57,140,0,100,Heart disease
-62,115,0,72,Heart disease
-59,110,0,94,Heart disease
-53,160,0,122,Heart disease
-62,150,0,78,Heart disease
-54,180,0,150,Heart disease
-56,125,0,103,Heart disease
-56,125,0,98,Heart disease
-54,130,0,110,Heart disease
-66,155,0,90,Heart disease
-63,140,260,112,Heart disease
-44,130,209,127,Normal
-60,132,218,140,Heart disease
-55,142,228,149,Heart disease
-66,110,213,99,Normal
-66,120,0,120,Normal
-65,150,236,105,Heart disease
-60,180,0,140,Normal
-60,120,0,141,Heart disease
-60,160,267,157,Heart disease
-56,126,166,140,Normal
-59,140,0,117,Heart disease
-62,110,0,120,Heart disease
-63,133,0,120,Heart disease
-57,128,0,148,Heart disease
-62,120,220,86,Normal
-63,170,177,84,Heart disease
-46,110,236,125,Heart disease
-63,126,0,120,Normal
-60,152,0,118,Normal
-58,116,0,124,Heart disease
-64,120,0,106,Heart disease
-63,130,0,111,Heart disease
-74,138,0,116,Normal
-52,128,0,180,Heart disease
-69,130,0,129,Heart disease
-51,128,0,125,Heart disease
-60,130,186,140,Heart disease
-56,120,100,120,Heart disease
-55,136,228,124,Heart disease
-54,130,0,117,Heart disease
-77,124,171,110,Heart disease
-63,160,230,105,Heart disease
-55,0,0,155,Heart disease
-52,122,0,110,Heart disease
-64,144,0,122,Heart disease
-60,140,281,118,Heart disease
-60,120,0,133,Normal
-58,136,203,123,Heart disease
-59,154,0,131,Normal
-61,120,0,80,Heart disease
-40,125,0,165,Heart disease
-61,134,0,86,Heart disease
-41,104,0,111,Normal
-57,139,277,118,Heart disease
-63,136,0,84,Heart disease
-59,122,233,117,Heart disease
-51,128,0,107,Normal
-59,131,0,128,Heart disease
-42,134,240,160,Normal
-55,120,0,125,Heart disease
-63,132,0,130,Normal
-62,152,153,97,Heart disease
-56,124,224,161,Normal
-53,126,0,106,Heart disease
-68,138,0,130,Heart disease
-53,154,0,140,Heart disease
-60,141,316,122,Heart disease
-62,131,0,130,Normal
-59,178,0,120,Heart disease
-51,132,218,139,Normal
-61,110,0,108,Heart disease
-57,130,311,148,Heart disease
-56,170,0,123,Heart disease
-58,126,0,110,Heart disease
-69,140,0,118,Heart disease
-67,142,270,125,Heart disease
-58,120,0,106,Heart disease
-65,134,0,112,Heart disease
-63,139,217,128,Heart disease
-55,110,214,180,Normal
-57,140,214,144,Heart disease
-65,140,252,135,Normal
-54,136,220,140,Heart disease
-72,120,214,102,Heart disease
-75,170,203,108,Heart disease
-49,130,0,145,Heart disease
-51,137,339,127,Heart disease
-60,142,216,110,Heart disease
-64,142,276,140,Heart disease
-58,132,458,69,Normal
-61,146,241,148,Heart disease
-67,160,384,130,Heart disease
-62,135,297,130,Heart disease
-65,136,248,140,Heart disease
-63,130,308,138,Heart disease
-69,140,208,140,Heart disease
-51,132,227,138,Normal
-62,158,210,112,Heart disease
-55,136,245,131,Heart disease
-75,136,225,112,Heart disease
-40,106,240,80,Normal
-67,120,0,150,Heart disease
-58,110,198,110,Heart disease
-60,136,195,126,Normal
-63,160,267,88,Heart disease
-35,123,161,153,Normal
-62,112,258,150,Heart disease
-43,122,0,120,Heart disease
-63,130,0,160,Normal
-68,150,195,132,Heart disease
-65,150,235,120,Heart disease
-48,102,0,110,Heart disease
-63,96,305,121,Heart disease
-64,130,223,128,Normal
-61,120,282,135,Heart disease
-50,144,349,120,Heart disease
-59,124,160,117,Heart disease
-55,150,160,150,Normal
-45,130,236,144,Normal
-65,144,312,113,Heart disease
-61,139,283,135,Normal
-49,131,142,127,Heart disease
-72,143,211,109,Heart disease
-50,133,218,128,Heart disease
-64,143,306,115,Heart disease
-55,116,186,102,Heart disease
-63,110,252,140,Heart disease
-59,125,222,135,Heart disease
-56,130,0,122,Heart disease
-62,133,0,119,Heart disease
-74,150,258,130,Heart disease
-54,130,202,112,Heart disease
-57,110,197,100,Normal
-62,138,204,122,Heart disease
-76,104,113,120,Heart disease
-54,138,274,105,Heart disease
-70,170,192,129,Heart disease
-61,140,298,120,Normal
-48,132,272,139,Normal
-48,132,220,162,Heart disease
-61,142,200,100,Heart disease
-66,112,261,140,Heart disease
-68,139,181,135,Normal
-55,172,260,73,Heart disease
-62,120,220,86,Normal
-71,144,221,108,Heart disease
-74,145,216,116,Heart disease
-53,155,175,160,Normal
-58,150,219,118,Heart disease
-75,160,310,112,Normal
-56,137,208,122,Heart disease
-58,137,232,124,Heart disease
-64,134,273,102,Heart disease
-54,133,203,137,Normal
-54,132,182,141,Normal
-59,140,274,154,Normal
-55,135,204,126,Heart disease
-57,144,270,160,Heart disease
-61,141,292,115,Heart disease
-41,150,171,128,Normal
-71,130,221,115,Heart disease
-38,110,289,105,Heart disease
-55,158,217,110,Heart disease
-56,128,223,119,Heart disease
-69,140,110,109,Heart disease
-64,150,193,135,Heart disease
-72,160,123,130,Heart disease
-69,142,210,112,Heart disease
-56,137,282,126,Heart disease
-62,139,170,120,Heart disease
-67,146,369,110,Heart disease
-57,156,173,119,Heart disease
-69,145,289,110,Heart disease
-51,131,152,130,Heart disease
-48,140,208,159,Heart disease
-69,122,216,84,Heart disease
-69,142,271,126,Normal
-64,141,244,116,Heart disease
-57,180,285,120,Heart disease
-53,124,243,122,Heart disease
-37,118,240,165,Normal
-67,140,219,122,Heart disease
-74,140,237,94,Heart disease
-63,136,165,133,Normal
-58,100,213,110,Normal
-61,190,287,150,Heart disease
-64,130,258,130,Heart disease
-58,160,256,113,Heart disease
-60,130,186,140,Heart disease
-57,122,264,100,Heart disease
-55,133,185,136,Normal
-55,120,226,127,Heart disease
-56,130,203,98,Heart disease
-57,130,207,96,Normal
-61,140,284,123,Heart disease
-61,120,337,98,Heart disease
-74,155,310,112,Heart disease
-68,134,254,151,Normal
-51,114,258,96,Normal
-62,160,254,108,Heart disease
-53,144,300,128,Heart disease
-62,158,170,138,Heart disease
-46,134,310,126,Heart disease
-54,127,333,154,Heart disease
-62,135,139,137,Normal
-55,122,223,100,Heart disease
-58,140,385,135,Normal
-62,120,254,93,Heart disease
-70,130,322,109,Heart disease
-67,115,564,160,Normal
-57,124,261,141,Heart disease
-64,128,263,105,Normal
-74,120,269,121,Normal
-65,120,177,140,Normal
-56,130,256,142,Heart disease
-59,110,239,142,Heart disease
-60,140,293,170,Heart disease
-63,150,407,154,Heart disease
-59,135,234,161,Normal
-53,142,226,111,Normal
-44,140,235,180,Normal
-61,134,234,145,Heart disease
-57,128,303,159,Normal
-71,112,149,125,Normal
-46,140,311,120,Heart disease
-53,140,203,155,Heart disease
-64,110,211,144,Normal
-40,140,199,178,Normal
-67,120,229,129,Heart disease
-48,130,245,180,Normal
-43,115,303,181,Normal
-47,112,204,143,Normal
-54,132,288,159,Normal
-48,130,275,139,Normal
-46,138,243,152,Normal
-51,120,295,157,Normal
-58,112,230,165,Heart disease
-71,110,265,130,Normal
-57,128,229,150,Heart disease
-66,160,228,138,Normal
-37,120,215,170,Normal
-59,170,326,140,Heart disease
-50,144,200,126,Heart disease
-48,130,256,150,Heart disease
-61,140,207,138,Heart disease
-59,160,273,125,Heart disease
-42,130,180,150,Normal
-48,122,222,186,Normal
-40,152,223,181,Heart disease
-62,124,209,163,Normal
-44,130,233,179,Normal
-46,101,197,156,Normal
-59,126,218,134,Heart disease
-58,140,211,165,Normal
-49,118,149,126,Heart disease
-44,110,197,177,Heart disease
-66,160,246,120,Heart disease
-65,150,225,114,Heart disease
-42,136,315,125,Heart disease
-52,128,205,184,Normal
-65,140,417,157,Normal
-63,140,195,179,Normal
-45,130,234,175,Normal
-41,105,198,168,Normal
-61,138,166,125,Heart disease
-60,120,178,96,Normal
-59,174,249,143,Heart disease
-62,120,281,103,Heart disease
-57,150,126,173,Normal
-51,130,305,142,Heart disease
-44,120,226,169,Normal
-60,150,240,171,Normal
-63,145,233,150,Normal
-57,150,276,112,Heart disease
-51,140,261,186,Normal
-58,136,319,152,Heart disease
-44,118,242,149,Normal
-47,108,243,152,Heart disease
-61,120,260,140,Heart disease
-57,120,354,163,Normal
-70,156,245,143,Normal
-76,140,197,116,Normal
-67,106,223,142,Normal
-45,142,309,147,Heart disease
-45,104,208,148,Normal
-39,94,199,179,Normal
-42,120,209,173,Normal
-56,120,236,178,Normal
-58,146,218,105,Heart disease
-35,120,198,130,Heart disease
-58,150,270,111,Heart disease
-41,130,214,168,Normal
-57,110,201,126,Normal
-42,148,244,178,Normal
-62,128,208,140,Normal
-59,178,270,145,Normal
-41,126,306,163,Normal
-50,150,243,128,Heart disease
-59,140,221,164,Normal
-61,130,330,169,Heart disease
-54,124,266,109,Heart disease
-54,110,206,108,Heart disease
-52,125,212,168,Heart disease
-47,110,275,118,Heart disease
-66,120,302,151,Normal
-58,100,234,156,Heart disease
-64,140,313,133,Normal
-50,120,244,162,Normal
-44,108,141,175,Normal
-67,120,237,71,Heart disease
-49,130,269,163,Normal
-57,165,289,124,Heart disease
-63,130,254,147,Heart disease
-48,124,274,166,Heart disease
-51,100,222,143,Normal
-60,150,258,157,Heart disease
-59,140,177,162,Heart disease
-45,112,160,138,Normal
-55,180,327,117,Heart disease
-41,110,235,153,Normal
-60,158,305,161,Heart disease
-54,135,304,170,Normal
-42,120,295,162,Normal
-49,134,271,162,Normal
-46,120,249,144,Heart disease
-56,200,288,133,Heart disease
-66,150,226,114,Normal
-56,130,283,103,Heart disease
-49,120,188,139,Heart disease
-54,122,286,116,Heart disease
-57,152,274,88,Heart disease
-65,160,360,151,Normal
-54,125,273,152,Normal
-54,160,201,163,Normal
-62,120,267,99,Heart disease
-52,136,196,169,Normal
-52,134,201,158,Normal
-60,117,230,160,Heart disease
-63,108,269,169,Heart disease
-66,112,212,132,Heart disease
-42,140,226,178,Normal
-64,120,246,96,Heart disease
-54,150,232,165,Normal
-46,142,177,160,Normal
-67,152,277,172,Normal
-56,125,249,144,Heart disease
-34,118,210,192,Normal
-57,132,207,168,Normal
-64,145,212,132,Heart disease
-59,138,271,182,Normal
-50,140,233,163,Heart disease
-51,125,213,125,Normal
-54,192,283,195,Heart disease
-53,123,282,95,Heart disease
-52,112,230,160,Heart disease
-40,110,167,114,Heart disease
-58,132,224,173,Heart disease
-41,112,268,172,Normal
-41,112,250,179,Normal
-50,120,219,158,Normal
-54,108,267,167,Normal
-64,130,303,122,Normal
-51,130,256,149,Normal
-46,105,204,172,Normal
-55,140,217,111,Heart disease
-45,128,308,170,Normal
-56,120,193,162,Normal
-66,178,228,165,Heart disease
-38,120,231,182,Heart disease
-62,150,244,154,Heart disease
-55,130,262,155,Normal
-58,128,259,130,Heart disease
-43,110,211,161,Normal
-64,180,325,154,Normal
-50,110,254,159,Normal
-53,130,197,152,Normal
-45,138,236,152,Normal
-65,138,282,174,Heart disease
-69,160,234,131,Normal
-69,140,254,146,Heart disease
-67,100,299,125,Heart disease
-68,120,211,115,Normal
-34,118,182,174,Normal
-62,138,294,106,Heart disease
-51,140,298,122,Heart disease
-46,150,231,147,Heart disease
-67,125,254,163,Heart disease
-50,129,196,163,Normal
-42,120,240,194,Normal
-56,134,409,150,Heart disease
-41,110,172,158,Heart disease
-42,102,265,122,Normal
-53,130,246,173,Normal
-43,130,315,162,Normal
-56,132,184,105,Heart disease
-52,108,233,147,Normal
-62,140,394,157,Normal
-70,160,269,112,Heart disease
-54,140,239,160,Normal
-70,145,174,125,Heart disease
-54,108,309,156,Normal
-35,126,282,156,Heart disease
-48,124,255,175,Normal
-55,135,250,161,Normal
-58,100,248,122,Normal
-54,110,214,158,Normal
-69,140,239,151,Normal
-77,125,304,162,Heart disease
-68,118,277,151,Normal
-58,125,300,171,Heart disease
-60,125,258,141,Heart disease
-51,140,299,173,Heart disease
-55,160,289,145,Heart disease
-52,152,298,178,Normal
-60,102,318,160,Normal
-58,105,240,154,Normal
-64,125,309,131,Heart disease
-37,130,250,187,Normal
-59,170,288,159,Heart disease
-51,125,245,166,Normal
-43,122,213,165,Normal
-58,128,216,131,Heart disease
-29,130,204,202,Normal
-41,130,204,172,Normal
-63,135,252,172,Normal
-51,94,227,154,Normal
-54,120,258,147,Normal
-44,120,220,170,Normal
-54,110,239,126,Heart disease
-65,135,254,127,Heart disease
-57,150,168,174,Normal
-63,130,330,132,Heart disease
-35,138,183,182,Normal
-41,135,203,132,Normal
-62,130,263,97,Heart disease
-43,132,341,136,Heart disease
-58,150,283,162,Normal
-52,118,186,190,Normal
-61,145,307,146,Heart disease
-39,118,219,140,Heart disease
-45,115,260,185,Normal
-52,128,255,161,Heart disease
-62,130,231,146,Normal
-62,160,164,145,Heart disease
-53,138,234,160,Normal
-43,120,177,120,Heart disease
-47,138,257,156,Normal
-52,120,325,172,Normal
-68,180,274,150,Heart disease
-39,140,321,182,Normal
-53,130,264,143,Normal
-62,140,268,160,Heart disease
-51,140,308,142,Normal
-60,130,253,144,Heart disease
-65,110,248,158,Heart disease
-65,155,269,148,Normal
-60,140,185,155,Heart disease
-60,145,282,142,Heart disease
-54,120,188,113,Heart disease
-44,130,219,188,Normal
-44,112,290,153,Heart disease
-51,110,175,123,Normal
-59,150,212,157,Normal
-71,160,302,162,Normal
-61,150,243,137,Normal
-55,132,353,132,Heart disease
-64,140,335,158,Heart disease
-43,150,247,171,Normal
-58,120,340,172,Normal
-60,130,206,132,Heart disease
-58,120,284,160,Heart disease
-49,130,266,171,Normal
-48,110,229,168,Heart disease
-52,172,199,162,Normal
-44,120,263,173,Normal
-56,140,294,153,Normal
-57,140,192,148,Normal
-67,160,286,108,Heart disease
-53,128,216,115,Normal
-52,138,223,169,Normal
-43,132,247,143,Heart disease
-52,128,204,156,Heart disease
-59,134,204,162,Heart disease
-64,170,227,155,Normal
-66,146,278,152,Normal
-39,138,220,152,Normal
-57,154,232,164,Heart disease
-58,130,197,131,Normal
-57,110,335,143,Heart disease
-47,130,253,179,Normal
-55,128,205,130,Heart disease
-35,122,192,174,Normal
-61,148,203,161,Heart disease
-58,114,318,140,Heart disease
-58,170,225,146,Heart disease
-58,125,220,144,Normal
-56,130,221,163,Normal
-56,120,240,169,Normal
-67,152,212,150,Heart disease
-55,132,342,166,Normal
-44,120,169,144,Heart disease
-63,140,187,144,Heart disease
-63,124,197,136,Heart disease
-41,120,157,182,Normal
-59,164,176,90,Heart disease
-57,140,241,123,Heart disease
-45,110,264,132,Heart disease
-68,144,193,141,Heart disease
-57,130,131,115,Heart disease
-57,130,236,174,Heart disease
-38,138,175,173,Normal
+Age,RestingBP,Cholesterol,MaxHR,Oldpeak,HeartDisease
+40,140,289,172,0,Normal
+49,160,180,156,1,Heart disease
+37,130,283,98,0,Normal
+48,138,214,108,1.5,Heart disease
+54,150,195,122,0,Normal
+39,120,339,170,0,Normal
+45,130,237,170,0,Normal
+54,110,208,142,0,Normal
+37,140,207,130,1.5,Heart disease
+48,120,284,120,0,Normal
+37,130,211,142,0,Normal
+58,136,164,99,2,Heart disease
+39,120,204,145,0,Normal
+49,140,234,140,1,Heart disease
+42,115,211,137,0,Normal
+54,120,273,150,1.5,Normal
+38,110,196,166,0,Heart disease
+43,120,201,165,0,Normal
+60,100,248,125,1,Heart disease
+36,120,267,160,3,Heart disease
+43,100,223,142,0,Normal
+44,120,184,142,1,Normal
+49,124,201,164,0,Normal
+44,150,288,150,3,Heart disease
+40,130,215,138,0,Normal
+36,130,209,178,0,Normal
+53,124,260,112,3,Normal
+52,120,284,118,0,Normal
+53,113,468,127,0,Normal
+51,125,188,145,0,Normal
+53,145,518,130,0,Heart disease
+56,130,167,114,0,Normal
+54,125,224,122,2,Heart disease
+41,130,172,130,2,Heart disease
+43,150,186,154,0,Normal
+32,125,254,155,0,Normal
+65,140,306,87,1.5,Heart disease
+41,110,250,142,0,Normal
+48,120,177,148,0,Normal
+48,150,227,130,1,Normal
+54,150,230,130,0,Normal
+54,130,294,100,0,Heart disease
+35,150,264,168,0,Normal
+52,140,259,170,0,Normal
+43,120,175,120,1,Heart disease
+59,130,318,120,1,Normal
+37,120,223,168,0,Normal
+50,140,216,170,0,Normal
+36,112,340,184,1,Normal
+41,110,289,170,0,Heart disease
+50,130,233,121,2,Heart disease
+47,120,205,98,2,Heart disease
+45,140,224,122,0,Normal
+41,130,245,150,0,Normal
+52,130,180,140,1.5,Normal
+51,160,194,170,0,Normal
+31,120,270,153,1.5,Heart disease
+58,130,213,140,0,Heart disease
+54,150,365,134,1,Normal
+52,112,342,96,1,Heart disease
+49,100,253,174,0,Normal
+43,150,254,175,0,Normal
+45,140,224,144,0,Normal
+46,120,277,125,1,Heart disease
+50,110,202,145,0,Normal
+37,120,260,130,0,Normal
+45,132,297,144,0,Normal
+32,110,225,184,0,Normal
+52,160,246,82,4,Heart disease
+44,150,412,170,0,Normal
+57,140,265,145,1,Heart disease
+44,130,215,135,0,Normal
+52,120,182,150,0,Heart disease
+44,120,218,115,0,Normal
+55,140,268,128,1.5,Heart disease
+46,150,163,116,0,Normal
+32,118,529,130,0,Heart disease
+35,140,167,150,0,Normal
+52,140,100,138,0,Normal
+49,130,206,170,0,Heart disease
+55,110,277,160,0,Normal
+54,120,238,154,0,Normal
+63,150,223,115,0,Heart disease
+52,160,196,165,0,Normal
+56,150,213,125,1,Heart disease
+66,140,139,94,1,Heart disease
+65,170,263,112,2,Heart disease
+53,140,216,142,2,Normal
+43,120,291,155,0,Heart disease
+55,140,229,110,0.5,Normal
+49,110,208,160,0,Normal
+39,130,307,140,0,Normal
+52,120,210,148,0,Normal
+48,160,329,92,1.5,Heart disease
+39,110,182,180,0,Normal
+58,130,263,140,2,Heart disease
+43,142,207,138,0,Normal
+39,160,147,160,0,Normal
+56,120,85,140,0,Normal
+41,125,269,144,0,Normal
+65,130,275,115,1,Heart disease
+51,130,179,100,0,Normal
+40,150,392,130,2,Heart disease
+40,120,466,152,1,Heart disease
+46,118,186,124,0,Heart disease
+57,140,260,140,0,Normal
+48,120,254,110,0,Normal
+34,150,214,168,0,Normal
+50,140,129,135,0,Normal
+39,190,241,106,0,Normal
+59,130,188,124,1,Normal
+57,150,255,92,3,Heart disease
+47,140,276,125,0,Normal
+38,140,297,150,0,Normal
+49,130,207,135,0,Normal
+33,100,246,150,1,Heart disease
+38,120,282,170,0,Heart disease
+59,130,338,130,1.5,Heart disease
+35,120,160,185,0,Normal
+34,140,156,180,0,Heart disease
+47,135,248,170,0,Heart disease
+52,125,272,139,0,Normal
+46,110,240,140,0,Normal
+58,180,393,110,1,Heart disease
+58,130,230,150,0,Normal
+54,120,246,110,0,Normal
+34,130,161,190,0,Normal
+48,108,163,175,2,Normal
+54,120,230,140,0,Normal
+42,120,228,152,1.5,Normal
+38,145,292,130,0,Normal
+46,110,202,150,0,Heart disease
+56,170,388,122,2,Heart disease
+56,150,230,124,1.5,Heart disease
+61,130,294,120,1,Normal
+49,115,265,175,0,Heart disease
+43,120,215,175,0,Normal
+39,120,241,146,2,Normal
+54,140,166,118,0,Heart disease
+43,150,247,130,2,Heart disease
+52,160,331,94,2.5,Heart disease
+50,140,341,125,2.5,Heart disease
+47,160,291,158,3,Heart disease
+53,140,243,155,0,Normal
+56,120,279,150,1,Heart disease
+39,110,273,132,0,Normal
+42,120,198,155,0,Normal
+43,120,249,176,0,Normal
+50,120,168,160,0,Normal
+54,130,603,125,1,Heart disease
+39,130,215,120,0,Normal
+48,100,159,100,0,Normal
+40,130,275,150,0,Normal
+55,120,270,140,0,Normal
+41,120,291,160,0,Normal
+56,155,342,150,3,Heart disease
+38,110,190,150,1,Heart disease
+49,140,185,130,0,Normal
+44,130,290,100,2,Heart disease
+54,160,195,130,1,Normal
+59,140,264,119,0,Heart disease
+49,128,212,96,0,Heart disease
+47,160,263,174,0,Normal
+42,120,196,150,0,Normal
+52,140,225,140,0,Normal
+46,140,272,175,2,Heart disease
+50,140,231,140,5,Heart disease
+48,140,238,118,0,Normal
+58,135,222,100,0,Normal
+58,140,179,160,0,Normal
+29,120,243,160,0,Normal
+40,140,235,188,0,Normal
+53,140,320,162,0,Normal
+49,140,187,172,0,Normal
+52,140,266,134,2,Heart disease
+43,140,288,135,2,Heart disease
+54,140,216,105,1.5,Heart disease
+59,140,287,150,0,Normal
+37,130,194,150,0,Normal
+46,130,238,90,0,Normal
+52,130,225,120,2,Heart disease
+51,130,224,150,0,Normal
+52,140,404,124,2,Heart disease
+46,110,238,140,1,Normal
+54,160,312,130,0,Normal
+58,160,211,92,0,Heart disease
+58,130,251,110,0,Normal
+41,120,237,138,1,Heart disease
+50,120,328,110,1,Normal
+53,180,285,120,1.5,Heart disease
+46,180,280,120,0,Normal
+50,170,209,116,0,Normal
+48,130,245,160,0,Normal
+45,135,192,110,0,Normal
+41,125,184,180,0,Normal
+62,160,193,116,0,Normal
+49,120,297,132,1,Normal
+42,150,268,136,0,Normal
+53,120,246,116,0,Heart disease
+57,130,308,98,1,Normal
+47,110,249,150,0,Normal
+46,120,230,150,0,Normal
+42,160,147,146,0,Normal
+31,100,219,150,0,Normal
+56,130,184,100,0,Normal
+50,150,215,140,0,Normal
+35,120,308,180,0,Normal
+35,110,257,140,0,Heart disease
+28,130,132,185,0,Normal
+54,125,216,140,0,Heart disease
+48,106,263,110,0,Heart disease
+50,140,288,140,0,Heart disease
+56,130,276,128,1,Normal
+56,130,219,164,0,Normal
+47,150,226,98,1.5,Heart disease
+30,170,237,170,0,Normal
+39,110,280,150,0,Heart disease
+54,120,217,137,0,Normal
+55,140,196,150,0,Normal
+29,140,263,170,0,Normal
+46,130,222,112,0,Heart disease
+51,160,303,150,1,Heart disease
+48,120,195,125,0,Normal
+33,120,298,185,0,Normal
+55,120,256,137,0,Normal
+50,145,264,150,0,Heart disease
+53,120,195,140,0,Normal
+38,92,117,134,2.5,Heart disease
+41,120,295,170,0,Normal
+37,130,173,184,0,Normal
+37,130,315,158,0,Normal
+40,130,281,167,0,Normal
+38,120,275,129,0,Normal
+41,112,250,142,0,Normal
+54,140,309,140,0,Normal
+39,120,200,160,1,Normal
+41,120,336,118,3,Heart disease
+55,140,295,136,0,Heart disease
+48,160,355,99,2,Heart disease
+48,160,193,102,3,Heart disease
+55,145,326,155,0,Normal
+54,200,198,142,2,Heart disease
+55,160,292,143,2,Heart disease
+43,120,266,118,0,Normal
+48,160,268,103,1,Heart disease
+54,120,171,137,2,Normal
+54,120,237,150,1.5,Heart disease
+48,122,275,150,2,Heart disease
+45,130,219,130,1,Heart disease
+49,130,341,120,1,Heart disease
+44,135,491,135,0,Heart disease
+48,120,260,115,2,Heart disease
+61,125,292,115,0,Normal
+62,140,271,152,1,Normal
+55,145,248,96,2,Heart disease
+53,120,274,130,0,Normal
+55,130,394,150,0,Normal
+36,150,160,172,0,Normal
+51,150,200,120,0.5,Normal
+55,122,320,155,0,Normal
+46,140,275,165,0,Normal
+54,120,221,138,1,Normal
+46,120,231,115,0,Heart disease
+59,130,126,125,0,Heart disease
+47,140,193,145,1,Heart disease
+54,160,305,175,0,Normal
+52,130,298,110,1,Heart disease
+34,98,220,150,0,Normal
+54,130,242,91,1,Heart disease
+47,130,235,145,2,Normal
+45,120,225,140,0,Normal
+32,105,198,165,0,Normal
+55,140,201,130,3,Heart disease
+55,120,220,134,0,Normal
+45,180,295,180,0,Normal
+59,180,213,100,0,Normal
+51,135,160,150,2,Heart disease
+52,170,223,126,1.5,Heart disease
+57,180,347,126,0.8,Normal
+54,130,253,155,0,Normal
+60,120,246,135,0,Normal
+49,150,222,122,2,Heart disease
+51,130,220,160,2,Normal
+55,110,344,160,0,Normal
+42,140,358,170,0,Normal
+51,110,190,120,0,Normal
+59,140,169,140,0,Normal
+53,120,181,132,0,Normal
+48,133,308,156,2,Normal
+36,120,166,180,0,Normal
+48,110,211,138,0,Normal
+47,140,257,135,1,Normal
+53,130,182,148,0,Normal
+65,115,0,93,0,Heart disease
+32,95,0,127,0.7,Heart disease
+61,105,0,110,1.5,Heart disease
+50,145,0,139,0.7,Heart disease
+57,110,0,131,1.4,Heart disease
+51,110,0,92,0,Heart disease
+47,110,0,149,2.1,Heart disease
+60,160,0,149,0.4,Heart disease
+55,140,0,150,0.2,Normal
+53,125,0,120,1.5,Heart disease
+62,120,0,123,1.7,Heart disease
+51,95,0,126,2.2,Heart disease
+51,120,0,127,1.5,Heart disease
+55,115,0,155,0.1,Heart disease
+53,130,0,120,0.7,Normal
+58,115,0,138,0.5,Heart disease
+57,95,0,182,0.7,Heart disease
+65,155,0,154,1,Normal
+60,125,0,110,0.1,Heart disease
+41,125,0,176,1.6,Heart disease
+34,115,0,154,0.2,Heart disease
+53,80,0,141,2,Normal
+74,145,0,123,1.3,Heart disease
+57,105,0,148,0.3,Heart disease
+56,140,0,121,1.8,Heart disease
+61,130,0,77,2.5,Heart disease
+68,145,0,136,1.8,Heart disease
+59,125,0,175,2.6,Heart disease
+63,100,0,109,-0.9,Heart disease
+38,105,0,166,2.8,Heart disease
+62,115,0,128,2.5,Heart disease
+46,100,0,133,-2.6,Heart disease
+42,105,0,128,-1.5,Heart disease
+45,110,0,138,-0.1,Normal
+59,125,0,119,0.9,Heart disease
+52,95,0,82,0.8,Heart disease
+60,130,0,130,1.1,Heart disease
+60,115,0,143,2.4,Heart disease
+56,115,0,82,-1,Heart disease
+38,100,0,179,-1.1,Normal
+40,95,0,144,0,Heart disease
+51,130,0,170,-0.7,Heart disease
+62,120,0,134,-0.8,Heart disease
+72,160,0,114,1.6,Normal
+63,150,0,154,3.7,Heart disease
+63,140,0,149,2,Heart disease
+64,95,0,145,1.1,Heart disease
+43,100,0,122,1.5,Heart disease
+64,110,0,114,1.3,Heart disease
+61,110,0,113,1.4,Heart disease
+52,130,0,120,0,Heart disease
+51,120,0,104,0,Heart disease
+69,135,0,130,0,Heart disease
+59,120,0,115,0,Heart disease
+48,115,0,128,0,Heart disease
+69,137,0,104,1.6,Heart disease
+36,110,0,125,1,Heart disease
+53,120,0,120,0,Heart disease
+43,140,0,140,0.5,Heart disease
+56,120,0,100,-1,Heart disease
+58,130,0,100,1,Heart disease
+55,120,0,92,0.3,Heart disease
+67,145,0,125,0,Heart disease
+46,115,0,113,1.5,Heart disease
+53,120,0,95,0,Heart disease
+38,115,0,128,0,Heart disease
+53,105,0,115,0,Heart disease
+62,160,0,72,0,Heart disease
+47,160,0,124,0,Heart disease
+56,155,0,99,0,Heart disease
+56,120,0,148,0,Heart disease
+56,120,0,97,0,Normal
+64,200,0,140,1,Heart disease
+61,150,0,117,2,Heart disease
+68,135,0,120,0,Heart disease
+57,140,0,120,2,Heart disease
+63,150,0,86,2,Heart disease
+60,135,0,63,0.5,Heart disease
+66,150,0,108,2,Heart disease
+63,185,0,98,0,Heart disease
+59,135,0,115,1,Heart disease
+61,125,0,105,0,Heart disease
+73,160,0,121,0,Heart disease
+47,155,0,118,1,Heart disease
+65,160,0,122,1.2,Heart disease
+70,140,0,157,2,Heart disease
+50,120,0,156,0,Heart disease
+60,160,0,99,0.5,Heart disease
+50,115,0,120,0.5,Heart disease
+43,115,0,145,2,Heart disease
+38,110,0,156,0,Heart disease
+54,120,0,155,0,Heart disease
+61,150,0,105,0,Heart disease
+42,145,0,99,0,Heart disease
+53,130,0,135,1,Heart disease
+55,140,0,83,0,Heart disease
+61,160,0,145,1,Heart disease
+51,140,0,60,0,Heart disease
+70,115,0,92,0,Heart disease
+61,130,0,115,0,Heart disease
+38,150,0,120,0.7,Heart disease
+57,160,0,98,2,Heart disease
+38,135,0,150,0,Heart disease
+62,140,0,143,0,Heart disease
+58,170,0,105,0,Heart disease
+52,165,0,122,1,Heart disease
+61,200,0,70,0,Heart disease
+50,160,0,110,0,Heart disease
+51,130,0,163,0,Heart disease
+65,145,0,67,0.7,Heart disease
+52,135,0,128,2,Heart disease
+47,110,0,120,0,Heart disease
+35,120,0,130,1.2,Heart disease
+57,140,0,100,0,Heart disease
+62,115,0,72,-0.5,Heart disease
+59,110,0,94,0,Heart disease
+53,160,0,122,0,Heart disease
+62,150,0,78,2,Heart disease
+54,180,0,150,1.5,Heart disease
+56,125,0,103,1,Heart disease
+56,125,0,98,-2,Heart disease
+54,130,0,110,3,Heart disease
+66,155,0,90,0,Heart disease
+63,140,260,112,3,Heart disease
+44,130,209,127,0,Normal
+60,132,218,140,1.5,Heart disease
+55,142,228,149,2.5,Heart disease
+66,110,213,99,1.3,Normal
+66,120,0,120,-0.5,Normal
+65,150,236,105,0,Heart disease
+60,180,0,140,1.5,Normal
+60,120,0,141,2,Heart disease
+60,160,267,157,0.5,Heart disease
+56,126,166,140,0,Normal
+59,140,0,117,1,Heart disease
+62,110,0,120,0.5,Heart disease
+63,133,0,120,1,Heart disease
+57,128,0,148,1,Heart disease
+62,120,220,86,0,Normal
+63,170,177,84,2.5,Heart disease
+46,110,236,125,2,Heart disease
+63,126,0,120,1.5,Normal
+60,152,0,118,0,Normal
+58,116,0,124,1,Heart disease
+64,120,0,106,2,Heart disease
+63,130,0,111,0,Heart disease
+74,138,0,116,0.2,Normal
+52,128,0,180,3,Heart disease
+69,130,0,129,1,Heart disease
+51,128,0,125,1.2,Heart disease
+60,130,186,140,0.5,Heart disease
+56,120,100,120,1.5,Heart disease
+55,136,228,124,1.6,Heart disease
+54,130,0,117,1.4,Heart disease
+77,124,171,110,2,Heart disease
+63,160,230,105,1,Heart disease
+55,0,0,155,1.5,Heart disease
+52,122,0,110,2,Heart disease
+64,144,0,122,1,Heart disease
+60,140,281,118,1.5,Heart disease
+60,120,0,133,2,Normal
+58,136,203,123,1.2,Heart disease
+59,154,0,131,1.5,Normal
+61,120,0,80,0,Heart disease
+40,125,0,165,0,Heart disease
+61,134,0,86,1.5,Heart disease
+41,104,0,111,0,Normal
+57,139,277,118,1.9,Heart disease
+63,136,0,84,0,Heart disease
+59,122,233,117,1.3,Heart disease
+51,128,0,107,0,Normal
+59,131,0,128,2,Heart disease
+42,134,240,160,0,Normal
+55,120,0,125,2.5,Heart disease
+63,132,0,130,0.1,Normal
+62,152,153,97,1.6,Heart disease
+56,124,224,161,2,Normal
+53,126,0,106,0,Heart disease
+68,138,0,130,3,Heart disease
+53,154,0,140,1.5,Heart disease
+60,141,316,122,1.7,Heart disease
+62,131,0,130,0.1,Normal
+59,178,0,120,0,Heart disease
+51,132,218,139,0.1,Normal
+61,110,0,108,2,Heart disease
+57,130,311,148,2,Heart disease
+56,170,0,123,2.5,Heart disease
+58,126,0,110,2,Heart disease
+69,140,0,118,2.5,Heart disease
+67,142,270,125,2.5,Heart disease
+58,120,0,106,1.5,Heart disease
+65,134,0,112,1.1,Heart disease
+63,139,217,128,1.2,Heart disease
+55,110,214,180,0.4,Normal
+57,140,214,144,2,Heart disease
+65,140,252,135,0.3,Normal
+54,136,220,140,3,Heart disease
+72,120,214,102,1,Heart disease
+75,170,203,108,0,Heart disease
+49,130,0,145,3,Heart disease
+51,137,339,127,1.7,Heart disease
+60,142,216,110,2.5,Heart disease
+64,142,276,140,1,Heart disease
+58,132,458,69,1,Normal
+61,146,241,148,3,Heart disease
+67,160,384,130,0,Heart disease
+62,135,297,130,1,Heart disease
+65,136,248,140,4,Heart disease
+63,130,308,138,2,Heart disease
+69,140,208,140,2,Heart disease
+51,132,227,138,0.2,Normal
+62,158,210,112,3,Heart disease
+55,136,245,131,1.2,Heart disease
+75,136,225,112,3,Heart disease
+40,106,240,80,0,Normal
+67,120,0,150,1.5,Heart disease
+58,110,198,110,0,Heart disease
+60,136,195,126,0.3,Normal
+63,160,267,88,2,Heart disease
+35,123,161,153,-0.1,Normal
+62,112,258,150,1.3,Heart disease
+43,122,0,120,0.5,Heart disease
+63,130,0,160,3,Normal
+68,150,195,132,0,Heart disease
+65,150,235,120,1.5,Heart disease
+48,102,0,110,1,Heart disease
+63,96,305,121,1,Heart disease
+64,130,223,128,0.5,Normal
+61,120,282,135,4,Heart disease
+50,144,349,120,1,Heart disease
+59,124,160,117,1,Heart disease
+55,150,160,150,0,Normal
+45,130,236,144,0.1,Normal
+65,144,312,113,1.7,Heart disease
+61,139,283,135,0.3,Normal
+49,131,142,127,1.5,Heart disease
+72,143,211,109,1.4,Heart disease
+50,133,218,128,1.1,Heart disease
+64,143,306,115,1.8,Heart disease
+55,116,186,102,0,Heart disease
+63,110,252,140,2,Heart disease
+59,125,222,135,2.5,Heart disease
+56,130,0,122,1,Heart disease
+62,133,0,119,1.2,Heart disease
+74,150,258,130,4,Heart disease
+54,130,202,112,2,Heart disease
+57,110,197,100,0,Normal
+62,138,204,122,1.2,Heart disease
+76,104,113,120,3.5,Heart disease
+54,138,274,105,1.5,Heart disease
+70,170,192,129,3,Heart disease
+61,140,298,120,0,Normal
+48,132,272,139,0.2,Normal
+48,132,220,162,0,Heart disease
+61,142,200,100,1.5,Heart disease
+66,112,261,140,1.5,Heart disease
+68,139,181,135,0.2,Normal
+55,172,260,73,2,Heart disease
+62,120,220,86,0,Normal
+71,144,221,108,1.8,Heart disease
+74,145,216,116,1.8,Heart disease
+53,155,175,160,0.3,Normal
+58,150,219,118,0,Heart disease
+75,160,310,112,2,Normal
+56,137,208,122,1.8,Heart disease
+58,137,232,124,1.4,Heart disease
+64,134,273,102,4,Heart disease
+54,133,203,137,0.2,Normal
+54,132,182,141,0.1,Normal
+59,140,274,154,2,Normal
+55,135,204,126,1.1,Heart disease
+57,144,270,160,2,Heart disease
+61,141,292,115,1.7,Heart disease
+41,150,171,128,1.5,Normal
+71,130,221,115,0,Heart disease
+38,110,289,105,1.5,Heart disease
+55,158,217,110,2.5,Heart disease
+56,128,223,119,2,Heart disease
+69,140,110,109,1.5,Heart disease
+64,150,193,135,0.5,Heart disease
+72,160,123,130,1.5,Heart disease
+69,142,210,112,1.5,Heart disease
+56,137,282,126,1.2,Heart disease
+62,139,170,120,3,Heart disease
+67,146,369,110,1.9,Heart disease
+57,156,173,119,3,Heart disease
+69,145,289,110,1.8,Heart disease
+51,131,152,130,1,Heart disease
+48,140,208,159,1.5,Heart disease
+69,122,216,84,0,Heart disease
+69,142,271,126,0.3,Normal
+64,141,244,116,1.5,Heart disease
+57,180,285,120,0.8,Heart disease
+53,124,243,122,2,Heart disease
+37,118,240,165,1,Normal
+67,140,219,122,2,Heart disease
+74,140,237,94,0,Heart disease
+63,136,165,133,0.2,Normal
+58,100,213,110,0,Normal
+61,190,287,150,2,Heart disease
+64,130,258,130,0,Heart disease
+58,160,256,113,1,Heart disease
+60,130,186,140,0.5,Heart disease
+57,122,264,100,0,Heart disease
+55,133,185,136,0.2,Normal
+55,120,226,127,1.7,Heart disease
+56,130,203,98,1.5,Heart disease
+57,130,207,96,1,Normal
+61,140,284,123,1.3,Heart disease
+61,120,337,98,0,Heart disease
+74,155,310,112,1.5,Heart disease
+68,134,254,151,0,Normal
+51,114,258,96,1,Normal
+62,160,254,108,3,Heart disease
+53,144,300,128,1.5,Heart disease
+62,158,170,138,0,Heart disease
+46,134,310,126,0,Heart disease
+54,127,333,154,0,Heart disease
+62,135,139,137,0.2,Normal
+55,122,223,100,0,Heart disease
+58,140,385,135,0.3,Normal
+62,120,254,93,0,Heart disease
+70,130,322,109,2.4,Heart disease
+67,115,564,160,1.6,Normal
+57,124,261,141,0.3,Heart disease
+64,128,263,105,0.2,Normal
+74,120,269,121,0.2,Normal
+65,120,177,140,0.4,Normal
+56,130,256,142,0.6,Heart disease
+59,110,239,142,1.2,Heart disease
+60,140,293,170,1.2,Heart disease
+63,150,407,154,4,Heart disease
+59,135,234,161,0.5,Normal
+53,142,226,111,0,Normal
+44,140,235,180,0,Normal
+61,134,234,145,2.6,Heart disease
+57,128,303,159,0,Normal
+71,112,149,125,1.6,Normal
+46,140,311,120,1.8,Heart disease
+53,140,203,155,3.1,Heart disease
+64,110,211,144,1.8,Normal
+40,140,199,178,1.4,Normal
+67,120,229,129,2.6,Heart disease
+48,130,245,180,0.2,Normal
+43,115,303,181,1.2,Normal
+47,112,204,143,0.1,Normal
+54,132,288,159,0,Normal
+48,130,275,139,0.2,Normal
+46,138,243,152,0,Normal
+51,120,295,157,0.6,Normal
+58,112,230,165,2.5,Heart disease
+71,110,265,130,0,Normal
+57,128,229,150,0.4,Heart disease
+66,160,228,138,2.3,Normal
+37,120,215,170,0,Normal
+59,170,326,140,3.4,Heart disease
+50,144,200,126,0.9,Heart disease
+48,130,256,150,0,Heart disease
+61,140,207,138,1.9,Heart disease
+59,160,273,125,0,Heart disease
+42,130,180,150,0,Normal
+48,122,222,186,0,Normal
+40,152,223,181,0,Heart disease
+62,124,209,163,0,Normal
+44,130,233,179,0.4,Normal
+46,101,197,156,0,Normal
+59,126,218,134,2.2,Heart disease
+58,140,211,165,0,Normal
+49,118,149,126,0.8,Heart disease
+44,110,197,177,0,Heart disease
+66,160,246,120,0,Heart disease
+65,150,225,114,1,Heart disease
+42,136,315,125,1.8,Heart disease
+52,128,205,184,0,Normal
+65,140,417,157,0.8,Normal
+63,140,195,179,0,Normal
+45,130,234,175,0.6,Normal
+41,105,198,168,0,Normal
+61,138,166,125,3.6,Heart disease
+60,120,178,96,0,Normal
+59,174,249,143,0,Heart disease
+62,120,281,103,1.4,Heart disease
+57,150,126,173,0.2,Normal
+51,130,305,142,1.2,Heart disease
+44,120,226,169,0,Normal
+60,150,240,171,0.9,Normal
+63,145,233,150,2.3,Normal
+57,150,276,112,0.6,Heart disease
+51,140,261,186,0,Normal
+58,136,319,152,0,Heart disease
+44,118,242,149,0.3,Normal
+47,108,243,152,0,Heart disease
+61,120,260,140,3.6,Heart disease
+57,120,354,163,0.6,Normal
+70,156,245,143,0,Normal
+76,140,197,116,1.1,Normal
+67,106,223,142,0.3,Normal
+45,142,309,147,0,Heart disease
+45,104,208,148,3,Normal
+39,94,199,179,0,Normal
+42,120,209,173,0,Normal
+56,120,236,178,0.8,Normal
+58,146,218,105,2,Heart disease
+35,120,198,130,1.6,Heart disease
+58,150,270,111,0.8,Heart disease
+41,130,214,168,2,Normal
+57,110,201,126,1.5,Normal
+42,148,244,178,0.8,Normal
+62,128,208,140,0,Normal
+59,178,270,145,4.2,Normal
+41,126,306,163,0,Normal
+50,150,243,128,2.6,Heart disease
+59,140,221,164,0,Normal
+61,130,330,169,0,Heart disease
+54,124,266,109,2.2,Heart disease
+54,110,206,108,0,Heart disease
+52,125,212,168,1,Heart disease
+47,110,275,118,1,Heart disease
+66,120,302,151,0.4,Normal
+58,100,234,156,0.1,Heart disease
+64,140,313,133,0.2,Normal
+50,120,244,162,1.1,Normal
+44,108,141,175,0.6,Normal
+67,120,237,71,1,Heart disease
+49,130,269,163,0,Normal
+57,165,289,124,1,Heart disease
+63,130,254,147,1.4,Heart disease
+48,124,274,166,0.5,Heart disease
+51,100,222,143,1.2,Normal
+60,150,258,157,2.6,Heart disease
+59,140,177,162,0,Heart disease
+45,112,160,138,0,Normal
+55,180,327,117,3.4,Heart disease
+41,110,235,153,0,Normal
+60,158,305,161,0,Heart disease
+54,135,304,170,0,Normal
+42,120,295,162,0,Normal
+49,134,271,162,0,Normal
+46,120,249,144,0.8,Heart disease
+56,200,288,133,4,Heart disease
+66,150,226,114,2.6,Normal
+56,130,283,103,1.6,Heart disease
+49,120,188,139,2,Heart disease
+54,122,286,116,3.2,Heart disease
+57,152,274,88,1.2,Heart disease
+65,160,360,151,0.8,Normal
+54,125,273,152,0.5,Normal
+54,160,201,163,0,Normal
+62,120,267,99,1.8,Heart disease
+52,136,196,169,0.1,Normal
+52,134,201,158,0.8,Normal
+60,117,230,160,1.4,Heart disease
+63,108,269,169,1.8,Heart disease
+66,112,212,132,0.1,Heart disease
+42,140,226,178,0,Normal
+64,120,246,96,2.2,Heart disease
+54,150,232,165,1.6,Normal
+46,142,177,160,1.4,Normal
+67,152,277,172,0,Normal
+56,125,249,144,1.2,Heart disease
+34,118,210,192,0.7,Normal
+57,132,207,168,0,Normal
+64,145,212,132,2,Heart disease
+59,138,271,182,0,Normal
+50,140,233,163,0.6,Heart disease
+51,125,213,125,1.4,Normal
+54,192,283,195,0,Heart disease
+53,123,282,95,2,Heart disease
+52,112,230,160,0,Heart disease
+40,110,167,114,2,Heart disease
+58,132,224,173,3.2,Heart disease
+41,112,268,172,0,Normal
+41,112,250,179,0,Normal
+50,120,219,158,1.6,Normal
+54,108,267,167,0,Normal
+64,130,303,122,2,Normal
+51,130,256,149,0.5,Normal
+46,105,204,172,0,Normal
+55,140,217,111,5.6,Heart disease
+45,128,308,170,0,Normal
+56,120,193,162,1.9,Normal
+66,178,228,165,1,Heart disease
+38,120,231,182,3.8,Heart disease
+62,150,244,154,1.4,Heart disease
+55,130,262,155,0,Normal
+58,128,259,130,3,Heart disease
+43,110,211,161,0,Normal
+64,180,325,154,0,Normal
+50,110,254,159,0,Normal
+53,130,197,152,1.2,Normal
+45,138,236,152,0.2,Normal
+65,138,282,174,1.4,Heart disease
+69,160,234,131,0.1,Normal
+69,140,254,146,2,Heart disease
+67,100,299,125,0.9,Heart disease
+68,120,211,115,1.5,Normal
+34,118,182,174,0,Normal
+62,138,294,106,1.9,Heart disease
+51,140,298,122,4.2,Heart disease
+46,150,231,147,3.6,Heart disease
+67,125,254,163,0.2,Heart disease
+50,129,196,163,0,Normal
+42,120,240,194,0.8,Normal
+56,134,409,150,1.9,Heart disease
+41,110,172,158,0,Heart disease
+42,102,265,122,0.6,Normal
+53,130,246,173,0,Normal
+43,130,315,162,1.9,Normal
+56,132,184,105,2.1,Heart disease
+52,108,233,147,0.1,Normal
+62,140,394,157,1.2,Normal
+70,160,269,112,2.9,Heart disease
+54,140,239,160,1.2,Normal
+70,145,174,125,2.6,Heart disease
+54,108,309,156,0,Normal
+35,126,282,156,0,Heart disease
+48,124,255,175,0,Normal
+55,135,250,161,1.4,Normal
+58,100,248,122,1,Normal
+54,110,214,158,1.6,Normal
+69,140,239,151,1.8,Normal
+77,125,304,162,0,Heart disease
+68,118,277,151,1,Normal
+58,125,300,171,0,Heart disease
+60,125,258,141,2.8,Heart disease
+51,140,299,173,1.6,Heart disease
+55,160,289,145,0.8,Heart disease
+52,152,298,178,1.2,Normal
+60,102,318,160,0,Normal
+58,105,240,154,0.6,Normal
+64,125,309,131,1.8,Heart disease
+37,130,250,187,3.5,Normal
+59,170,288,159,0.2,Heart disease
+51,125,245,166,2.4,Normal
+43,122,213,165,0.2,Normal
+58,128,216,131,2.2,Heart disease
+29,130,204,202,0,Normal
+41,130,204,172,1.4,Normal
+63,135,252,172,0,Normal
+51,94,227,154,0,Normal
+54,120,258,147,0.4,Normal
+44,120,220,170,0,Normal
+54,110,239,126,2.8,Heart disease
+65,135,254,127,2.8,Heart disease
+57,150,168,174,1.6,Normal
+63,130,330,132,1.8,Heart disease
+35,138,183,182,1.4,Normal
+41,135,203,132,0,Normal
+62,130,263,97,1.2,Heart disease
+43,132,341,136,3,Heart disease
+58,150,283,162,1,Normal
+52,118,186,190,0,Normal
+61,145,307,146,1,Heart disease
+39,118,219,140,1.2,Heart disease
+45,115,260,185,0,Normal
+52,128,255,161,0,Heart disease
+62,130,231,146,1.8,Normal
+62,160,164,145,6.2,Heart disease
+53,138,234,160,0,Normal
+43,120,177,120,2.5,Heart disease
+47,138,257,156,0,Normal
+52,120,325,172,0.2,Normal
+68,180,274,150,1.6,Heart disease
+39,140,321,182,0,Normal
+53,130,264,143,0.4,Normal
+62,140,268,160,3.6,Heart disease
+51,140,308,142,1.5,Normal
+60,130,253,144,1.4,Heart disease
+65,110,248,158,0.6,Heart disease
+65,155,269,148,0.8,Normal
+60,140,185,155,3,Heart disease
+60,145,282,142,2.8,Heart disease
+54,120,188,113,1.4,Heart disease
+44,130,219,188,0,Normal
+44,112,290,153,0,Heart disease
+51,110,175,123,0.6,Normal
+59,150,212,157,1.6,Normal
+71,160,302,162,0.4,Normal
+61,150,243,137,1,Normal
+55,132,353,132,1.2,Heart disease
+64,140,335,158,0,Heart disease
+43,150,247,171,1.5,Normal
+58,120,340,172,0,Normal
+60,130,206,132,2.4,Heart disease
+58,120,284,160,1.8,Heart disease
+49,130,266,171,0.6,Normal
+48,110,229,168,1,Heart disease
+52,172,199,162,0.5,Normal
+44,120,263,173,0,Normal
+56,140,294,153,1.3,Normal
+57,140,192,148,0.4,Normal
+67,160,286,108,1.5,Heart disease
+53,128,216,115,0,Normal
+52,138,223,169,0,Normal
+43,132,247,143,0.1,Heart disease
+52,128,204,156,1,Heart disease
+59,134,204,162,0.8,Heart disease
+64,170,227,155,0.6,Normal
+66,146,278,152,0,Normal
+39,138,220,152,0,Normal
+57,154,232,164,0,Heart disease
+58,130,197,131,0.6,Normal
+57,110,335,143,3,Heart disease
+47,130,253,179,0,Normal
+55,128,205,130,2,Heart disease
+35,122,192,174,0,Normal
+61,148,203,161,0,Heart disease
+58,114,318,140,4.4,Heart disease
+58,170,225,146,2.8,Heart disease
+58,125,220,144,0.4,Normal
+56,130,221,163,0,Normal
+56,120,240,169,0,Normal
+67,152,212,150,0.8,Heart disease
+55,132,342,166,1.2,Normal
+44,120,169,144,2.8,Heart disease
+63,140,187,144,4,Heart disease
+63,124,197,136,0,Heart disease
+41,120,157,182,0,Normal
+59,164,176,90,1,Heart disease
+57,140,241,123,0.2,Heart disease
+45,110,264,132,1.2,Heart disease
+68,144,193,141,3.4,Heart disease
+57,130,131,115,1.2,Heart disease
+57,130,236,174,0,Heart disease
+38,138,175,173,0,Normal
